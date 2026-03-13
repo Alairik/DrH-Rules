@@ -1,0 +1,1250 @@
+PRAVIDLA PRO POKROCILE - PRO HRACE (PPP_PH)
+Sirael - Draci Hlidka
+=================================================
+
+=== 2. Válečník ===
+
+--- VÁLEČNÍK ---
+Řinčení mečů, chaos bitvy a křik raněných jsou válečníkovým denním chlebem. Ve zdánlivé nahodilosti boje objevil systém, který dokáže využít. Jeho útoky se tak staly extrémně účelnými a zničujícími. Zároveň však otupěl vůči hrůzám a utrpení a stal se z něj mnohdy velmi cynický tvor. Pokud nejdou věci dlouho řešit po dobrém, neváhá použít násilí. Pro člověka, který má kladivo, se prostě každý problém jeví jako hřebík.
+Válečník se na své cestě za dobrodružstvím dobrovolně vrhá do nebezpečí a bojů, ze kterých vychází vítězně svým umem, štěstím, přízní bohů, nebo nejspíše vším dohromady. Díky zkušenostem dokáže zachovat chladnou hlavu i v kritických momentech a má odpověď na lecjakou situaci. V první linii pak neúprosně drtí nepřátele a velí ostatním. Jsou to právě Válečníci, kdo mnohdy rozhoduje o výsledku boje a tím i o osudu celé družiny.
+POKROČILÉ SCHOPNOSTI VÁLEČNÍKA
+Jakmile Válečník dosáhne šesté úrovně, stává se z neohrabaného rváče vytříbený bojovník, jenž začíná skutečně rozumět tajemstvím a principům válečného řemesla. Díky novým schopnostem se zvýší množství triků, které je schopen se naučit. Zároveň může dokonale ovládnout určitý druh zbraní nebo způsob boje, což ještě více posílí jeho bojové schopnosti.
+POKROČILÁ SCHOPNOST VÁLEČNÍKA:
+
+- Cesty Válečníka
+- Tovaryš Cechu Válečníků
+
+CESTY VÁLEČNÍKA
+Každý Válečník volí jiný přístup k boji. Je dán typem zbraní, který nejlépe sedí jeho bojovému stylu či konstituci těla. Šermíři a hbitější bojovníci mají v oblibě bodné zbraně jako jsou kopí či meče. Berserkr se zase bude nejčastěji ohánět sekerou či kladivem. Rytíři nejčastěji volí Cestu strategie. Naučí se, jak využívat terén a také útočné či obranné povely pro své spolubojovníky.
+Od 6. úrovně, a pak každou třetí úroveň, si Válečník může vybrat jednu z následujících bojových cest: Cesta meče, Cesta sekery, Cesta hole a kopí, Cesta kladiva a Cesta strategie.
+Jakmile si některou z nich vybere, ovládne ji na první stupeň a získá bojový bonus, který je u ní uvedený. Pokud si Válečník danou Cestu zvolí opakovaně, zvýší si i stupeň jejího zvládnutí. K předchozímu bonusu tak získá ještě další.
+Jestliže Válečník ovládne všechny čtyři stupně dané Cesty, stane se jejím mistrem. Získává tak navíc bonusy s tím spojené.
+Pokud Válečník bojuje dvěma zbraněmi najednou, může si započítat číselné bonusy pouze za jednu z Cest.
+PŘÍKLAD: Ovládá-li Válečník Cestu sekery a Cestu meče a má-li obě tyto zbraně v rukou, započítá si v dané chvíli jen bonusy za jednu z Cest dle vlastního uvážení.
+CESTA MEČE
+Válečník se na svých cestách zaměřil na používání všech druhů mečů, šavlí i kordů. Pečlivě vyvážená, ostrá čepel s chráněným jílcem je univerzální zbraní, která je platná téměř v jakékoliv situaci.
+Nezávisle na způsobu držení meče může Válečník v boji využít všechny lehké, střední i těžké varianty této zbraně. Veškeré bonusy Válečník získá pouze při boji se zbraněmi této Cesty.
+Cesta meče má následující stupně:
+I. Stupeň - Hbitý kryt
+Meč je rychlá a agilní zbraň. I masivní kus je obratnější než jakákoliv sekera. S pořádnou hlavicí na vyvážení čepele a někdy komplexní garniturou na ochranu ruky je meč vždy nejlepším přítelem v obraně.
+Zvládnutím tohoto stupně Cesty meče získá Válečník bonus +2 k Obraně zbraně (OZ).
+II. Stupeň - Adept Cesty meče
+Kdo se věnuje prohlubování svého umění se zbraní, vždy nalezne nové způsoby jak zefektivnit své útoky.
+Zvládnutím tohoto stupně Cesty meče získá Válečník bonus +2 k Útoku.
+III. Stupeň - Rychlá čepel
+S dobře vyváženou zbraní je snadné obnovovat útoky či zastavovat ty, které minuly svůj cíl.
+Zvládnutím tohoto stupně Cesty meče získá Válečník 1 útok navíc každé druhé kolo.
+IV. Stupeň - Krvavá čepel
+Dlouhé ostří poskytuje mnoho možností jak způsobit poškození a Válečník toho umí patřičně využít. Tažené i tlačené řezy a seky či posílené bodání jsou jen jedny z mnoha způsobů, jak využít smrtící potenciál meče.
+Zvládnutím tohoto stupně Cesty meče získá bonus +3 ke Zranění, které zbraň protivníkovi způsobí.
+Mistr Cesty meče
+Je pouze pár jedinců, kteří dosáhli takového věhlasu, že získají titul Mistra. Jejich seky a bodnutí působí se smrtící přesností a jsou tedy vždy o krok napřed oproti svým protivníkům.
+Kdo zvládne všechny 4 stupně Cesty meče, stává se jejím mistrem. Získá tak dodatečný bonus +1 do Útoku a Obrany zbraně (OZ).
+Zároveň získá možnost naučit se speciální trik Mordýřský úder.
+CESTA SEKERY
+Mnoho Válečníků dává přednost této prastaré zbrani mnoha podob. Někdy jde jen o původní pracovní nástroj lehce upravený pro válečné řemeslo. Jindy je to drobná vrhací sekerka, pastýřská sekera na dlouhé násadě nebo některé druhy kratších sudlic či halaparten. V neposlední řadě k nim patří i různá dvoubřitá monstra, která tolik milují trpaslíci. Pro všechny však platí, že jim hlava sekery na dřevěném toporu dává obrovskou pádnost a sílu. Zbraň tak protivníka nedrtí, ale tne do něj. Mistr v jejím ovládání toho umí náležitě využít.
+Nezávisle na způsobu držení sekery může Válečník v boji využít všechny lehké, střední i těžké varianty této zbraně.
+Pokud stupeň neuvádí jinak, lze bonus započítat jak při boji tváří v tvář tak při vrhání. Veškeré bonusy Válečník získá pouze při boji se zbraněmi této Cesty.
+Cesta sekery má následující stupně:
+I. Stupeň - Drtivé ostří
+Dobře vedený útok sekerou má svou razanci a sílu koncentrovanou v jedné linii ostří. Toto činí zásah mnohem ranivějším. Důležité je přizpůsobit se tomu, že Válečník neseká stojící strom, ale vzdorujícího protivníka. Kdo však dokáže pádnost sekery zkrotit i ve víru boje, bude působit děsivá zranění.
+Zvládnutím tohoto stupně Cesty sekery získá Válečník při boji bonus +2 ke Zranění, které zbraň protivníkovi způsobí.
+II. Stupeň - Adept Cesty sekery
+Zbraň, které se Válečník tolik věnuje, se stává prodloužením jeho paže. Její váha a pádnost ho netíží, ale dodává jeho úderům sílu.
+Zvládnutím tohoto stupně Cesty sekery získá Válečník při boji tváří v tvář bonus +2 k Útoku.
+III. Stupeň - Vířivé ostří
+Noži lze obstojně vrhat. Stejně tak je možné zabít i kopím či oštěpy. Všechny tyto zbraně mají na válečném poli své místo. Sekera stojí kdesi na pomezí. Její vrhání vyžaduje um a působí trochu jako trik a předvádění se. Nese však velkou razanci a dokáže pomoci v situacích nejvyšší nouze.
+Zvládnutím tohoto stupně Cesty sekery získá Válečník při vrhání sekerou bonus +3 k Útoku.
+IV. Stupeň - Průrazné ostří
+Na mnohé zbroji by si meč „vylámal zuby“. Pro sekeru už totéž ale neplatí. A pokud přece jen ano, stačí ji otočit a nechat skutečně působit jen váhu, zato na správném místě.
+Pokud má soupeř nekovovou zbroj, nebo nemá žádnou, může si Válečník přičíst bonus +3 ke svému Útoku.
+Mistr Cesty sekery
+Dosáhnout mistrovství v boji sekerou se podaří jen několika málo žijícím jedincům. Většinou plní roli družiníků náčelníků či králů a stávají se z nich šampioni smírčích duelů na život a na smrt.
+Kdo ovládne všechny 4 stupně Cesty sekery, stává se jejím mistrem. Získá tak bonus +1 ke Zranění zbraně i do Útoku.
+Zároveň tak získá možnost naučit se speciální trik Hákování.
+CESTA KOPÍ A HOLE
+Do této domény spadají nejen prosté hole, ale i ty zpevněné kováním. Stejně tak sem patří oštěpy i kopí, dlouhé píky a některé složitější dřevcové zbraně. Všechny tyto zbraně mají na bitevním poli svou neotřesitelnou pozici, ale často provází i všemožné poutníky a lapky. Už od počátku věků navíc neslouží jen k obraně, ale také k lovu a válčení.
+Nezávisle na způsobu držení kopí či hole může Válečník v boji využít všechny lehké, střední i těžké varianty této zbraně. Veškeré bonusy Válečník získá pouze při boji se zbraněmi této Cesty. Bonus lze započítat jak při boji tváří v tvář tak při vrhání.
+Cesta hole a kopí má tyto stupně:
+I. Stupeň - Výhoda dosahu
+Hůl i kopí jsou zbraně příliš dlouhé na to, aby se přenášely jinak než přímo v ruce. Když dojde k boji, přidají krok nebo dva navíc a získají další dosah. Není divu, že lze s kopím bojovat velmi pohotově.
+Zvládnutím tohoto stupně Cesty kopí a hole získá Válečník při boji bonus +2 k Iniciativě.
+II. Stupeň - Adept Cesty hole a kopí
+Kdo cvičí své umění, stane se přesným v bodání či úderech a neztratí razanci ani na větší vzdálenost.
+Zvládnutím tohoto stupně Cesty kopí a hole získá Válečník při boji tváří v tvář bonus +2 k Útoku.
+III. Stupeň - Odstup
+Jen hlupák nechá protivníka proklouznout za nebezpečný konec svojí dlouhé zbraně. Pokud sotva dosáhne, bude se pokoušet o útok jen s vypětím všech sil.
+Zvládnutím tohoto stupně Cesty kopí a hole získá Válečník při boji tváří v tvář bonus +3 k Obraně.
+IV. Stupeň - Přehmátnutí
+Kdo dokáže zručně pracovat s dlouhým ratištěm dřevcových zbraní, dokáže rychle měnit cíle a snadno obnovovat útoky.
+Zvládnutím tohoto stupně Cesty kopí a hole získá Válečník při boji tváří v tvář 1 Útok navíc každé druhé kolo.
+Mistr Cesty hole a kopí
+Mistři v používání dřevcových zbraní jsou často veliteli útočných komand, elitních jednotek královských armád, a většina vojáků vděčí za přežití bojovému tréninku, který pod jejich dohledem absolvují. Ať už bojují v útočných řadách či jeden na jednoho, jsou smrtícími protivníky.
+Kdo ovládne všechny 4 stupně Cesty kopí a hole, stává se jejím mistrem. Získá tak bonus +1 k Iniciativě i k Útoku.
+Zároveň získá možnost naučit se speciální trik Úchop za konec.
+CESTA KLADIVA
+Kladiva, palcáty, řemdihy či cepy, nebo jen prosté kyje či obušky jako jejich primitivní předchůdci. To vše jsou drtivé zbraně, které umí překonat ochranné odění protivníka a pořádně jím otřást. Tyto bojové prostředky uznávají drtivou hrubou sílu jako nejvyšší ctnost. Proto se dokáží těm, kdož jimi vládnou, odměnit ničivým potenciálem, který najde uplatnění bez ohledu na kvalitu zbroje protivníka.
+Nezávisle na způsobu držení kladiva může Válečník v boji využít všechny lehké, střední i těžké varianty této zbraně. Veškeré bonusy Válečník získá pouze při boji se zbraněmi této Cesty.
+Cesta kladiva má tyto stupně:
+I. Stupeň - Zadunění
+Uštědřit svému cíli pořádnou dunivou ránu vyžaduje dobré načasování. Kdo to však toto zvládne, bude odměněn doslova „zdrcujícími“ výsledky.
+Pokud má soupeř kroužkovou či silnější zbroj, může si Válečník přičíst v boji tváří v tvář k Útoku bonus +3.
+II. Stupeň - Adept Cesty kladiva
+U drtivých zbraní je důležité neplýtvat energii a nechat jejich váhu, aby pracovala pro Válečníka. Kdo toto zvládne, dokáže své protivníky notně překvapit svou hbitostí s tak těžkou zbraní.
+Zvládnutím tohoto stupně Cesty kladiva získá Válečník při jeho použití v boji tváří v tvář bonus +2 k Útoku.
+III. Stupeň - Rozdrcení
+Drtivá síla kladiv a palcátů působí zranění, která se jen tak rychle nezahojí. Je jen potřeba nebát se a vložit do toho pořádnou sílu.
+Zvládnutím tohoto stupně Cesty kladiva získá Válečník při boji tváří v tvář bonus +3 ke Zranění, které jím způsobí.
+IV. Stupeň - Otřesení
+Zdrcující rány dokáží protivníka zranit i zabít. Skuteční mistři však dokáží využít jejich sílu i jiným způsobem. Dobře provedený úder totiž dokáže protivníkem otřást natolik, že se z něj stane jen bezbranná loutka. Je pak jen na Válečníkovi, zda z něj udělá svého zajatce nebo rovnou ukončí jeho trápení.
+Pokud Válečník uspěje při svém útoku kladivem, vyvede soupeře z koncentrace. To se projeví tím, že nepřítel utrží postih -3 ke své následující akci. Tento postih se nesčítá, i když Válečník uspěje v jednom kole vícekrát.
+Mistr Cesty kladiva
+Pokud během bitevní vřavy zahlédnete vzduchem létat kusy plechů, můžete si být jistí, že kousek od vás předvádí své umění Mistr Cesty kladiva. Proti těmto Válečníkům neexistuje žádná dostatečná obrana, či zbroj. Jejich silné údery smetou vše, co jim stojí v cestě.
+Kdo ovládne všechny 4 stupně Cesty kladiva, stává se jejím mistrem. Získá tak bonus +1 k Útoku. Tento bonus je zesílen o další +1 v případě, že je veden vůči protivníkovi v kroužkové či těžší zbroji.
+Zároveň tak získá možnost naučit se speciální trik Odhození.
+CESTA STRATEGIE
+Strategie je dovedností Válečníka, v podstatě je jeho řemeslem. Velitelé musí ovládat tuto dovednost a vojáci by měli znát její základy. Říká se, že Válečníkova cesta se ubírá dvěma směry, stezkou mysli a stezkou meče. Válečník by měl ochutnat obě z nich. Ale ať už je Válečníkem barbarský Berserkr ze severských plání, nebo sečtělý a vzdělaný Rytíř hájící čest svého rodu či Šermíř cestující krajem a pronajímající svůj meč, všichni přirozeně inklinují k Cestě strategie.
+Cestou strategie získává Válečník dokonalý přehled o bitvě. Díky tomu dokáže naplánovat její celkový průběh a cíl. Právě to, jak disciplinovaně dokáží jeho spolubojovníci tuto strategii následovat, mnohdy rozhoduje o výsledku boje. Dobrý plán tak posiluje bojové schopnosti družiny, a to až do okamžiku, kdy ho protivník prohlédne a přizpůsobí se mu.
+Následování Válečníkovy strategie posiluje Útok i Obranu jeho družiny. K její realizaci je pak třeba, aby na straně Válečníka bylo alespoň 3-10 tvorů s Inteligencí (INT) 2 a vyšší.
+Předání pokynů družině trvá Válečníkovi vždy jedno celé kolo (dlouhá akce). Tuto akci může provést i před začátkem boje, hned když se seznámí s pozicemi protivníka. Na začátku útoku si všechny postavy družiny započítají bonusy dle dané strategie. Výše bonusu se rovná stupni Cesty strategie, jehož Válečník dosáhl.
+Určení strategie družině lze použít v daném souboji jen jednou. Její efekt pak trvá obvykle 3 kola. Prodloužení trvání efektu strategie lze docílit pomocí triku Přeskupení.
+I. Stupeň - Útočná strategie
+Válečník vykřikne několik rychlých pokynů a jeho družiníci ihned zaujmou formaci. Zaútočí na nejslabší článek obrany nepřátel, aby vytvořili průlom v jejich linii a získali tak strategickou výhodu.
+Zahájením Útočné strategie získá Válečník i všichni členové jeho družiny bonus +1 k Útoku a k Iniciativě. Tento bonus se ještě zvýší o +1 za každý další dosažený stupeň Cesty strategie.
+II. Stupeň - Obranná strategie
+„Proti nám stojí družina královských lučištníků. Držme se v těch nejhustějších částech lesa, kde ztratí svoji výhodu. Pokud uslyšíte hvizd šípů vrhněte se k zemi. Štítonoši pak musí vytvořit hradbu a ochránit zbytek.“
+Zahájením Obranné strategie získá Válečník a všichni členové jeho družiny bonus +2 do Obrany a k ověřovacím hodům na Reflex. Tento bonus se ještě zvýší o +1 za každý další dosažený (vyšší) stupeň zvládnutí Cesty strategie.
+Obranná strategie je navíc specifická možností přípravy v daném prostředí, mají-li Válečník a družina dostatek času. Takováto příprava zabere 1 směnu, během níž vysvětlí Válečník družině, co má dělat v případě náhlého přepadení. Pokud k němu skutečně dojde, strategie se spustí automaticky. Tato pohotovost, během níž se může strategie sama uplatnit, se udržuje po dobu jednoho dne od okamžiku přípravy.
+III. Stupeň - Strategie na skupinu
+„Pokud se setkáme s přesilou jako posledně, musíme se semknout kolem našeho alchymisty, ať má dostatek času si připravit, ten svůj ohňostroj!“
+Tato strategie je v podstatě kombinací předchozích dvou. Přináší však větší variabilitu. Její příprava zabere jednu směnu. Válečník může družině rozdat bonusy jednoho ze dvou předešlých stupňů individuálně každému členovi družiny zvlášť.
+Celková výše bonusů k rozdělení odpovídá dosaženému stupni zvládnutí Cesty strategie.
+„Pohotovost“, během níž se může tato strategie aktivovat, je jeden den. Poté je potřeba ji znovu zrevidovat a obnovit.
+IV. Stupeň - Strategie na místo
+„Zleva nás kryje skála. Zprava vytvoříme hradbu z vozů se zásobami. Na cestě vykopejte přikop a osaďte jej kůly. Nedáme naše kůže lacino!“
+Jak už název napovídá, tato strategie se dá použít jen na určitém místě. Její příprava je tedy náročnější a trvá proto 1 hodinu (4 směny). Válečník může díky ní svým druhům opět rozdat Útočné či Obranné bonusy jako u Strategie na skupinu. Ty však trvají po celou dobu boje, místo obvyklých 3 kol.
+Pokud Válečník zemře, upadne do bezvědomí, či opustí bojiště, bonusy za strategii vyprchají po 3 kolech.
+Mistr Cesty strategie
+Válečníci, kteří zasvětili celý svůj život studiu bojových strategií, se stanou mistry ve svém oboru. Tito jedinci pak vedou celé armády a jejich přístup připomíná šachové mistry, kteří mají vše promyšlené o několik tahů dopředu. Pro své umění jsou vysoce ceněni a o jejich vítězstvích se zpívá v písních potulných bardů.
+Kdo ovládne všechny čtyři stupně Cesty strategie, stává se jejím mistrem. Díky tomu efekt všech strategií vydrží o 2 kola déle, než je obvyklé (obvykle 5 kol místo 3).
+Pro mistry se navíc ruší limit počtu členů družiny, na něž lze strategie aplikovat. Může tak jimi podporovat i celý regiment nebo armádu.
+Kromě výše uvedeného navíc mistr získává i zvláštní bonus +2 ke schopnosti Velení (pokud ji Válečník ovládá).
+TOVARYŠ CECHU VÁLEČNÍKŮ
+Válečník se již stal věhlasným dobrodruhem. Historky o tom, jak riskoval život, aby zachránil přátele či porazil několikanásobnou přesilu nepřátel, jsou již velice známé. Díky tomu má přístup do Cechu Válečníků, kde může svá umění dále zlepšovat.
+Od 6. úrovně (včetně) se může Válečník automaticky naučit 2 triky za úroveň. Pro tuto schopnost neplatí pravidlo zpětné opravy.
+SPECIALIZACE VÁLEČNÍKA
+Po dosažení šesté úrovně se může Válečník dále specializovat ve své profesi a stát se Berserkrem, Rytířem nebo Šermířem. Podmínkou specializace je dosažení minimálně šesté úrovně a předchozí zvládnutí kombinace zvláštních schopností, které k danému zaměření náleží. Jakmile se pro to rozhodneš, oznámíš to Pánu Jeskyně při přestupu na další úroveň.
+Specializace povolání není povinná. Pokud chceš, můžeš dál pokračovat v původní cestě Válečníka, která ti i tak nabízí spoustu nových užitečných schopností. Stejně tak se můžeš rozhodnout pro specializaci až později (na vyšších úrovních).
+Než se však pro nějakou specializaci definitivně rozhodneš, dobře si to promysli. Volbu totiž nelze vzít zpět a jednou vybraná specializace ti zůstává natrvalo. Nelze ji proto později vyměnit za jinou. Jakmile si nějakou specializaci zvolíš, můžeš si při přestupu úrovně vybírat ze schopností, které k ní náleží. Stejně tak se však můžeš rozhodnout i pro libovolné schopnosti, které nabízí obecné povolání Válečníka. Seznam těchto obecných schopností najdeš uveden níže a schopnosti specializací pak v jejich samostatných podkapitolách.
+Jestliže nemáš vybranou žádnou specializaci, můžeš si na každé šesté úrovni vybrat jednu schopnost náležící některé z nich.
+VOLITELNÉ SCHOPNOSTI VÁLEČNÍKA OD 6 ÚROVNĚ
+Následující volitelné schopnosti jsou dostupné všem Válečníkům (a to i těm, kteří se rozhodnout věnovat nějaké specializaci).
+
+
+
+
+--- BERSERKR ---
+Berserkr je zuřivý Válečník, který se v něm probouzí zvukem praskajících kostí, řevem raněných a potoky krve. Právě v takovém šílenství boje nachází i ztrácí sám sebe. Topí se v opojném přívalu Adrenalinu a užívá si plnými doušky válečného běsnění. Ztrácí pak jakékoliv zábrany a každá ztráta vlastní krve ho ještě více nabíjí a posiluje jeho vražednou zuřivost. Je to velmi rychlý, divoký a pohyblivý bojovník, který překvapí svou mrštností a silou. Jeho triky umí zaskočit nejen obyčejné smrtelníky, ale i ta nejsilnější monstra. Pravdou je, že jedním z nich je i on sám.
+Aby se Válečník mohl specializovat a stát se Berserkrem, musí nejprve ovládnout následující schopnosti:
+
+- Škola boje s obouručním zbraní
+- Škola boje drtičů kostí
+- Schopnost Urputnost
+
+ZVLÁŠTNÍ SCHOPNOSTI BERSERKRA
+Každý Válečník získává volbou této specializace automaticky jednu zvláštní schopnost, která odpovídá jeho životnímu stylu a útrapám, jimiž si prošel.
+
+- Životní zkušenost berserkra
+
+ŽIVOTNÍ ZKUŠENOST BERSERKRA
+Stovky dní, kdy se hnal divočinou za nepřáteli, jej naučily být naprosto soběstačným. Jeho schopnost přežít i v těch nejdrsnějších podmínkách z něj činí skvělého partnera pro výpravy na druhý konec světa.
+Díky této schopnosti získá Berserkr bonus +3 k následujícím dovednostem: První pomoc, Přežití v přírodě, Řemesla.
+Zároveň, pokud má opravu za Sílu alespoň +4, může triky Školy obouručních zbraní provádět i se dvěma těžkými jednoručními zbraněmi najednou.
+VOLITELNÉ SCHOPNOSTI BERSERKRA
+Následující volitelné schopnosti jsou dostupné pouze těm Válečníkům, kteří dosáhli potřebných schopností a vědomostí ke specializaci na Berserkra.
+
+
+--- RYTÍŘ ---
+Rytíři jsou elitou Válečníků. Muži železa a oceli, které předchází pověst neotřesitelné vůle a nepřehlédnutelnosti. Zakuti ve své zbroji dokáží čelit všem nástrahám, neporaženi a se ctí. Oddáni starobylému kodexu skládají slib, kterým se zavazují následovat jisté zásady a mnohdy i chránit vlastním životem někoho, kdo je jim předurčen. Jsou to mistři, kteří prošli speciálním výcvikem. Dokáží kontrolovat svou bolest a pokud je to nutné, neváhají obětovat pro splnění rytířského slibu vlastní život. Ať už je jejich cíl jakýkoliv, jen těžko se najde někdo tak zásadový a nezdolný.
+Aby se Válečník mohl specializovat a stát se Rytířem, musí nejprve ovládnout následující schopnosti:
+
+- Škola boje se štítem
+- Škola boje s jednoruční zbraní
+- Zvláštní schopnost Velení
+
+ZVLÁŠTNÍ SCHOPNOSTI RYTÍŘE
+Každý Rytíř získává volbou této specializace automaticky jednu zvláštní schopnost. Ta z něj činí adepta na získání šlechtického titulu.
+
+- Životní zkušenost rytíře
+
+ŽIVOTNÍ ZKUŠENOST RYTÍŘE
+Rytíři mají své zásady a ctnosti. Pokud se Válečník chce začlenit do vyšších vrstev společnosti, musí získat klasické vzdělání, aby v debatách s králi udržel krok.
+Díky této schopnosti získá Rytíř bonus +3 k následujícím dovednostem: Cizí jazyky, Čtení a psaní a Historie.
+VOLITELNÉ SCHOPNOSTI RYTÍŘE
+Následující volitelné schopnosti jsou dostupné pouze těm Válečníkům, kteří dosáhli potřebných schopností a vědomostí ke specializaci na Rytíře.
+
+
+--- ŠERMÍŘ ---
+Šermíř je mistr technického boje. Zná správné kroky, umí pracovat se vzdáleností a nikdy se nenechá snadno nachytat. Práce s mečem i různé triky jsou pro něj rutinou a umí tak zaskočit naprosto smrtícími akcemi. Zvládá nejen boj proti jednotlivci, ale i proti přesile. Umí se rychle adaptovat na tempo a styl protivníka a není proto dobré s ním bojovat příliš dlouho. On sám totiž dlouhý boj nepřipustí.
+Aby se Válečník mohl specializovat a stát se Šermířem, musí nejprve ovládnout následující schopnosti:
+
+- Škola boje s bodnou zbraní
+- Škola boje se dvěma zbraněmi
+- Zvláštní schopnost Rozvážnost
+
+ZVLÁŠTNÍ SCHOPNOSTI ŠERMÍŘE
+Každý Válečník získává volbou této specializace automaticky jednu zvláštní schopnost. Díky ní se z něj stává opravdový umělec se zbraní v ruce, na něhož je v boji radost pohledět.
+
+- Životní zkušenost Šermíře
+
+ŽIVOTNÍ ZKUŠENOST ŠERMÍŘE
+Šermířský trénink je opravdu všestrannou záležitostí. Adepti se musí naučit nejen akrobatické triky a řemesla, ale i umění. Každá z těchto disciplín posiluje jejich preciznost a obratnost.
+Díky této schopnosti získá Šermíř bonus +3 k následujícím dovednostem: Akrobacie, Řemesla, Umění.
+Volitelné schopnosti šermíře
+Následující volitelné schopnosti jsou dostupné pouze těm Válečníkům, kteří dosáhli potřebných schopností a vědomostí ke specializaci na Šermíře.
+
+
+--- POKROČILÉ BOJOVÉ TRIKY ---
+Válečníkovy Pokročilé bojové triky se dělí na 5 typů: Souboj, Pohyb, Reakce, Soustředění a Výkřik.
+Každý trik má kromě popisu ještě 4 základní specifika:
+
+- Adrenalin - množství Adrenalinu potřebné k použití triku
+- Použití - druh akce, při které je možné trik využít, a pro souboj typ daného triku
+- Vyžaduje - omezení pro naučení a provedení triku
+- Ověření - způsob ověřovacího hodu, pokud ho trik vyžaduje
+
+SOUBOJ
+Tento druh triku lze použít v Útočné nebo Obranné akci. Bojové triky se pak dělí do několika kategorií (viz dále). Každá kategorie má vlastní pravidla a omezení, kdy je možné je využít (jedná se především o druh nepřítele a způsob boje).
+Pokud není u daného triku uvedeno jinak, je vždy součástí Aktivní obrany / Útoku.
+K jednomu Útoku je obvykle možné použít pouze jeden trik.
+Dodatečná obranaPřidá Válečníkovi jednu Obranu navíc, neovlivňuje počet Útočných akcí.
+Dodatečný útokPřidá Válečníkovi jeden Útok navíc, neovlivňuje počet Obranných akcí.
+FintaFinty lze použít na všechny inteligentní tvory a zvířata. Nemyslící bestie na ně nebudou nijak reagovat. Jejich cílem je donutit protivníka použít Obranu, i když opravdový Útok přijde až vzápětí.
+TechnikaTechniky lze využít proti všem ozbrojeným nepřátelům nezávisle na jejich Inteligenci. Za zbraně se dají považovat i ty improvizované (např. noha od stolu), výjimečně i části těla monster, pokud se zbraním podobají.
+TrikJednoduchý kousek, který lze použít za všech okolností a proti jakémukoliv typu protivníků. I duch tak bude zasažen Válečníkovým Bezhlavým útokem, pokud jej zraňuje zbraň, která je k tomu použita.
+ZápasJedná se o triky, díky nimž bojuješ svým tělem místo zbraně. Tento druh triků lze použít pouze na hmotné tvory do velikosti C (v případě Obra i do velikosti D). Jelikož se nejedná o standardní druh boje, lze využít pro tento druh triků speciální Reakce (vždy uvedené u dané Reakce).
+O možnosti využití tohoto druhu triků ve specifických případech (např. vyražení zbraně z ruky proti chapadlaté příšeře) rozhoduje Vypravěč.
+POHYB
+Triky typu Pohyb ovlivňují krátkou akci tohoto typu a modifikují její průběh (větší dosah, výskok do výšky apod.), případně mohou přidávat pohyb jako Reakci.
+REAKCE
+Pomocí Reakce postava přímo reaguje na to, co udělal její protivník. Aby postava mohla Reakci použít, musí být zpravidla splněny podmínky uvedené u dané Reakce (druh útoku, situace na bojišti, atd.). Efekt Reakce se vyhodnocuje předtím, než dojde k akci, na kterou byla Reakce použita.
+PŘÍKLAD: Hraničář Wilson vede proti válečníkovi Koutloshovi standardní útok krátkým mečem. Ten se rozhodne proti útoku využít Reakci Útok z prázdnoty. To způsobí, že Koutlosh ještě před vyhodnocením útoku Wilsonova provede svůj vlastní rychlý útok. Po vyhodnocení tohoto útoku se teprve vyhodnotí Wilsonův útok.
+Některé triky typu Souboj, Pohyb a Výkřik mohou být použity jako Reakce, pokud to daný trik umožňuje. Některé speciální Reakce je možné použít proti soupeřově Reakci.
+SOUSTŘEDĚNÍ
+Trik typu Soustředění trvá celé kolo, ať už se jedná o držení protivníka nebo zkoumání bojiště pro zvýšení Iniciativy v dalším kole. Soustředění je možno provádět vždy jen jednou za kolo a není je možno kombinovat s jinými triky. Nicméně je stále možné provádět ostatní standardní akce (běžný útok, pohyb, atd.)
+VÝKŘIK
+Používá se jako součást okamžité akce mluvení. Lze jím ovlivňovat Soustředění soupeřů, či pomáhat spolubojovníkům. Tento druh triku lze použít v kaž­dém kole pouze jednou.
+VÁLEČNÍKOVY TRIKY OD 6 ÚROVNĚ
+Níže najdeš uveden seznam všech bojových triků pro pokročilé dle toho, do jakého bojové školy náleží. Některé z nich navíc vyžadují specializaci a jsou uvedeny zvlášť. 
+SEZNAM POKROČILÝCH BOJOVÝCH TRIKŮ:
+Obecné bojové triky
+
+- Druhý (třetí) šíp
+- Lehká spoušť
+- Mocný vrh
+- Odvalení
+- Přehmátnutí
+- Tlačený řez
+- Úder Oheň a kameny
+- Úkrok
+- Válečný pokřik
+- Vrácení oštěpu
+- Vzteklý sek
+- Vztyk
+
+Bersekr
+
+- Louskáček
+- Mrtvá váha
+- Skok
+- Tři výkřiky
+- Úskok
+- Zastrašení
+- Zatvrzení
+- Železné pracky
+
+Mistr Cesty hole a kopí
+
+- Úchop za konec
+
+Mistr Cesty kladiva
+
+- Odhození
+
+Mistr Cesty meče
+
+- Mordýřský úder
+
+Mistr Cesty sekery
+
+- Hákování
+
+Mistr Cesty strategie
+
+- Přeskupení
+
+Rytíř
+
+- Do zbraně
+- Impozantní
+- Jasný povel
+- Obrněný
+- Odolání
+- Proslov před bitvou
+- Skočit do rány
+- Úder tělem
+
+Šermíř
+
+- Cuknutí
+- Variabilita
+- Mistrovský sek
+- Podmetení
+- Přišermování
+- Řez na ruce
+- Cit na čepeli
+- Znejistění
+
+Škola boje drtičů kostí
+
+- Úder ramenem
+- Držení za krk
+- Dupnutí
+- Kolena a lokty
+- Kop
+- Přehození
+- Přišlápnutí meče
+- Úder pěstí
+
+Škola boje na koni
+
+- Harcovnictví
+- Sražení koněm
+- Sražení z koně
+- Útok shora
+
+Škola boje s bodnou zbraní
+
+- Bodnutí na chodidlo
+- Bodnutí na obličej
+- Kavace
+- Průbojný hrot
+- Svěšený hrot
+- Tržná rána
+- Úhyb
+- Zdvojení
+
+Škola boje s jednoruční zbraní
+
+- Klamný útok
+- Páka na ruku
+- Povol
+- Předsek na ruce
+- Převrácený útok
+- Rychlá zbraň
+- Útok ze zápěstí
+- Vypuštěný útok
+- Druhý konec
+- Hrozba
+- Jeden úder
+- Odražení zbraně
+- Odstrčení
+- Útok z prázdnoty
+- Zdrcující úder
+- Změna směru
+
+Škola boje se dvěma zbraněmi
+
+- Druhý kryt
+- Dvojitý kryt
+- Naznačený útok
+- Odzbrojení
+- Protiútok
+- Překvapivý útok
+- Rezerva
+- Série útoků
+
+Škola boje se štítem
+
+- Bleskový kryt
+- Nastav hranu
+- Odklonění štítu
+- Odražení střely
+- Překlopení štítu
+- Úder hranou štítu
+- Úder štítem
+- Úkryt
+
+
+
+
+=== 3. Hraničář ===
+
+--- HRANIČÁŘ ---
+Dlouhý čas strávený putováním po těch nejnebezpečnějších krajích učinil z hraničáře elitního dobrodruha. Není divu, že je o jejich schopnosti takový zájem. Rekrutují se z nich ti nejlepší zvědové, stopaři i dobře placení průvodci karavan. Nikdy se nikde na dlouho neusadí. Volání dálek a poznávání nových míst je součástí jich samotných.
+Hraničář je ostřílený veterán trénovaný pro přežití v extrémních podmínkách. Dokáže vést družinu přes území nepřítele, zajistit potravu a zachránit životy jiných poskytnutím první pomoci. V divočině se tak stává přirozeným vůdcem, o jehož rozhodnutích se nikdy nediskutuje.
+POKROČILÉ SCHOPNOSTI HRANIČÁŘE
+Jakmile hraničář dosáhne šesté úrovně, stává se z něj pokročilý dobrodruh. Ovládne tak automaticky několik nových dovedností, které mu pomohou přežít na cestách. Zároveň získá i přístup k dalším kouzům. To je společné všem hraničářům bez ohledu na jejich případnou specializaci.
+POKROČILÉ HRANIČÁŘSKÉ DOVEDNOSTI:
+
+- Pohyb v terénu (OBR)
+- Přírodní překážky (OBR)
+- Výroba šípů (OBR)
+
+DALŠÍ HRANIČÁŘSKÁ KOUZLA:
+
+- Ochrana před smečkou (Magie zvířat)
+- Ochrana před zimou (Magie pocestných)
+- Odvracení zvířat (Magie zvířat)
+- Sledování (Magie pocestných)
+- Úder nenávisti (Magie přírody)
+- Uzdrav těžká zranění (Magie přírody)
+
+Detailní popis jednotlivých kouzel je uveden spolu s ostatními v kapitole Pokročilá hraničářská kouzla.
+POKROČILÉ HRANIČÁŘSKÉ DOVEDNOSTI
+VÝROBA ŠÍPŮ (D)
+Profesní dovednost (5. stupeň zvládnutí)
+Ověření: Výroba šípů (OBR) vs. X
+Výroba šípů je druhem umění, ve kterém hraničáři dosáhli jistého mistrovství. Dokáží tak kromě obyčejných střel vytvořit i několik speciálních. Výroba každé z nich zabere obvykle 1 směnu.
+Nejčastější jsou „šípy na míru“ (obtížnost 10). Ty posilují Útočnost a Zranění každého výstřelu z luku. Za každých 5 stupňů zvládnutí této dovednosti získá daný šíp k výše uvedeným hodnotám bonus +1. Tyto šípy jsou vyráběny vždy na míru jedné konkrétní zbrani. Pokud by byly použity v jiné, neposkytují žádný speciální bonus.
+Další variantou je „hvízdavý šíp“ (obtížnost 7). Ten má kostěný hrot s navrtanou dutinkou, vydávající za letu hlasitý hvízdavý zvuk.
+Posledním druhem je „šíp se zpětnými háčky“ (obtížnost 10). Jeho hrot je upraven tak, aby se zadrhnul do tkáně. Nelze ho proto z rány vytáhnout bez dodatečného zranění za 1k6 životů.
+POZNÁMKA: Jakmile hraničář začne tuto schopnost aktivně využívat, je vhodné začít si v Osobním deníku evidovat počet šípů jednotlivých druhů, které má hraničář u sebe.
+POHYB V TERÉNU (D)
+Profesní dovednost (5. stupeň zvládnutí)
+Ověření: Pohyb v terénu (OBR) vs. X
+Pohyb v divoké přírodě je náročnou zkouškou pro každého dobrodruha. Hraničáři v tom vynikají už z podstaty své profese. Někteří z nich se však naučí znát specifika terénu a míst lépe než ostatní.
+Kdykoliv se Hraničář snaží překonat nějakou překážku nebo těžký terén, může si hodit na dovednost Pohyb v terénu. Uspěje-li v ověřovacím hodu, překoná ji bez jakéhokoliv postihu k rychlosti pohybu. Navíc se pohybuje tak tiše, že nevydá žádný zvuk. Žádná větev pod ním nezapraská, listí nezašustí a podobně.
+PŘÍRODNÍ PŘEKÁŽKY (D)
+Profesní dovednost (5. stupeň zvládnutí)
+Ověření: Přírodní překážky (OBR) vs. X
+Hraničář je v přírodě velmi nebezpečným protivníkem. Pokud má dostatek času na přípravu, dokáže vytvořit protivníkovi v terénu mnoho „náhodných“ přírodních překážek, které ho mohou následně omezit či zpomalit v pohybu. Stejně tak s pomocí této dovednosti dokáže vytvořit užitečný kryt chránící lépe jeho nebo ostatní před střeleckými útoky.
+Pokud se rozhodne vytvořit terénní překážky a uspěje, změní se běžný terén na terén obtížný. Rychlost pohybu v něm se pak pro neznalé osoby snižuje na polovinu. Stejný efekt mají překážky i na pohyblivost neznalých osob v oblasti, dojde-li k přímému kontaktu či bojové situaci. Výroba překážek trvá zpravidla hodinu a hraničář během ní dokáže takto „znehodnotit“ území o velikosti 100 sáhů čtverečních.
+Jestliže se hraničář rozhodne vyrobit ochranné postavení, stráví tím obvykle 1 směnu. Získá tak „poloviční kryt“. Ten dává chráněné osobě bonus +3 do Základní obrany (ZO) proti střeleckým útokům.
+Hraničář je během směny schopen vyrobit tolik krytů, jaký má stupeň zvládnutí této dovednosti. Podmínkou je ovšem dostatek materiálu v okolí.
+
+SPECIALIZACE HRANIČÁŘE
+Po dosažení šesté úrovně se může hraničář dále specializovat ve své profesi a stát se Druidem, Chodcem nebo Pánem zvířat. Podmínkou specializace je dosažení minimálně šesté úrovně a předchozí zvládnutí kombinace zvláštních schopností, které k danému zaměření náleží. Jakmile se pro to rozhodneš, oznámíš to Pánu Jeskyně při přestupu na další úroveň.
+Specializace povolání není povinná.Pokud chceš, můžeš dál pokračovat v původní cestě Hraničáře, která ti itak nabízí spoustu nových užitečných schopností. Stejně tak se můžeš rozhodnout pro specializaci až později (na vyšších úrovních).
+Než se však pro nějakou specializaci definitivně rozhodneš, dobře si to promysli. Volbu totiž nelze vzít zpět a jednou vybraná specializace ti zůstává natrvalo. Nelze ji proto později vyměnit za jinou.
+Jakmile si nějakou specializaci zvolíš, můžeš si při přestupu úrovně vybírat ze schopností, které k ní náleží. Stejně tak se však můžeš rozhodnout i pro libovolné schopnosti, které nabízí obecné povolání Hraničáře. Seznam těchto obecných schopností najdeš uveden níže a schopnosti specializací pak v jejich samostatných podkapitolách.
+Jestliže nemáš vybranou žádnou specializaci, můžeš si na každé šesté úrovni vybrat jednu schopnost náležící některé z nich.
+VOLITELNÉ SCHOPNOSTI HRANIČÁŘE OD 6 ÚROVNĚ
+Následující volitelné schopnosti jsou dostupné všem Hraničářům (a to i těm, kteří se rozhodnou věnovat nějaké specializaci).
+
+
+--- CHODEC ---
+O Chodcích se vypráví odjakživa mnoho příběhů, které z nich dělají živoucí legendy. Jsou to zpravidla oni, kteří objevují nová území a ta pak často nesou jejich jméno. Stejně tak jsou mnohdy oslavováni jako průzkumníci, kteří se bez bázně vydávají na území nepřítele. Právě jimi získané informace už dokázaly zvrátit mnoho bitev ve prospěch slabších. V neposlední řadě jsou to elitní lovci monster. Nepozorovaně procházejí krajinou, chráněni svým uměním a chodeckým mečem, který jim propůjčuje legendární moc.
+Aby se Hraničář mohl specializovat a stát se Chodcem, musí nejprve ovládnout následující:
+
+- schopnost Obratné ostří
+- schopnost Průzkumnictví
+- znalost Magie pocestných
+
+ZVLÁŠTNÍ SCHOPNOSTI CHODCE
+Každý Chodec získává volbou této specializace automaticky jednu užitečnou zvláštní schopnost a jednu profesní dovednost, které mu pomáhají přežít na cestách. Jsou jimi:
+
+- Vytrvalost (S)
+- Znalost místních poměrů (D)
+
+VYTRVALOST (S)
+Chodci, podobně jako vojáci, prochází náročným výcvikem. Ten je však individuální a provádí ho „služebně starší“ hraničáři. Součástí tréninku nejsou jen chodecké dovednosti, nýbrž také posilování vytrvalosti. Mnozí si tak navždy pamatují slova ranního probuzení: „Vstávej a navleč si na sebe vybavení, jdeme do divočiny. Tornu tady nenechávej, jen ji vyprázdni a nalož do ní kamení. Hodně kamení.“
+Výcvik vytrvalosti umožňuje Chodci fungovat i v okamžiku, kdy už ostatní dávno padli vyčerpáním. Hranice únavy Chodce se tedy upraví na 15 + oprava za Odolnost (ODO).
+POZNÁMKA: Jestliže ve hře nepoužíváte mechaniku Únavy a Vyčerpání, můžete použít jen pocitový postup. Pokud jsou ostatní velmi vyčerpaní, Chodec se stále cítí velmi dobře. Jestliže už ostatní nemohou jít ani bojovat, Chodec teprve začíná cítit první známky únavy. Vydrží proto klidně absolvovat dvojnásobek toho, co ostatní.
+ZNALOST MÍSTNÍCH POMĚRŮ (D)
+Profesní dovednost (5. stupeň zvládnutí)
+Ověření: Znalost místních poměrů (INT) vs. X
+Tato dovednost umožňuje Chodci využít informace a zkušenosti, které získal na cestách. Ty mu dávají povědomí o místech, kde už byl nebo kam se chystá. Může vědět, kdo ve městě vládne, kde je jaká budova, jaké jsou místní zvyky, legendy a na co si dát pozor.
+Je na Chodci, aby určil, jaká informace ho o daném místě zajímá. Jestliže žádnou konkrétní neurčí, je rozhodnutí na Vypravěči.
+Úspěch v dovednosti se určuje ověřovacím hodem. Obtížnost pasti je přímo úměrná hodnotě získané (případně požadované) informace. Pokud Chodec v hodu uspěje, získá automaticky přehled o daném místě a situaci.
+Jestliže Chodec strávil na daném místě nějaký čas (aspoň týden), má navíc k hodu automaticky Výhodu (bonus +5).
+VOLITELNÉ SCHOPNOSTI CHODCE
+Předcházející volitelné schopnosti jsou dostupné pouze těm hraničářům, kteří dosáhli potřebných schopností a vědomostí ke specializaci Chodec.
+
+
+--- DRUID ---
+Druidové jsou hraničáři, jejichž domovem se stal hvozd. Obklopeni prastarými stromy a vzácnými živočichy přebývají v jeho srdci, kde našli klid a mír. Stali se tak nedílnou součástí lesa a jeho ochránci. Ten jim za to propůjčuje část své ohromné síly a mění je v legendy. Ačkoliv nikdo přesně neví, kam až moc Druidů sahá, mezi lidmi se šušká ledacos. Že jsou to zázrační léčitelé a že jim hvozd naslouchá. Že jsou jediní, kteří ho dokáží uklidnit, stejně jako ho dokáží probudit. Že jim slouží oživlé stromy a že prý dokáží vrátit život mrtvým. Jisté je, že v divoké přírodě patří mezi nejmocnější bytosti vůbec.
+Aby se Hraničář mohl specializovat a stát se Druidem, musí nejprve ovládnout následující:
+
+- schopnost Bojová hůl
+- znalost Léčitelství
+- znalost Magie přírody
+
+POZNÁMKA: Druidské tradice a umění jsou prastaré a mocné. Ten, kdo se chce této profesi věnovat, musí proniknout svými vědomostmi mnohem hlouběji a poznat zákonitosti hvozdu a přírody. Oproti jiným profesím zde proto najdeš více informací, které musíš znát a dodržovat.
+ZVLÁŠTNÍ SCHOPNOSTI DRUIDA
+Každý Druid získává volbou této specializace automaticky dvě mocné zvláštní schopnosti. Jedna mu propůjčí nebývalou sílu ochránce hvozdů a druhá zajistí přístup k druidským kouzlům.
+
+- Druidova kouzla 
+- Druidské svěcení (S)
+
+DRUIDSKÁ PRAVIDLA A TRADICE
+Jakmile se Hraničář rozhodne stát Druidem, musí prohloubit své Pouto s přírodou. Vybaven jen tím nejnutnějším odchází do divočiny, kde stráví několik týdnů. Během nich poznává způsob života ve hvozdu a jeho tajemství. Prohlubuje s ním své pouto, zatímco ho les chrání a sytí. Stejně tak je však vystaven zkouškám, které mají ověřit čistotu jeho úmyslů. Nakonec zamíří do srdce hvozdu, aby získal shozené parohy lešije. Z nich stvoří čelenku, která je symbolem moudrosti. Tím se stane plnohodnotným Druidem.
+Splněním zkoušky se Druid zavazuje ctít prastará pravidla přírody. Ta jsou pro něj posvátná (jejich detailní popis najdeš uveden níže a v kapitole Hvozd). Jejich porušení, stejně jako krutost a neúcta k přírodě mohou být důvodem ztráty veškeré moci a ochrany, které se mu dostává. Není divu, že se podobné situaci snaží každý rozumný Druid vyhnout. Obnovení ztracené důvěry hvozdu trvá velmi dlouho a bývá obtížné. Vyžaduje veliké odříkání a upřímnou snahu o nápravu svých chyb. O porušení pravidel rozhoduje vždy PJ, který zná celý kontext situace.
+Toto jsou základní pravidla, která musí Druid dodržovat:
+KOVOVÉ PŘEDMĚTY
+Druid se zříká používání a nošení kovových předmětů a zbraní. Jde o věci, které narušují čistotu přírody a spojení s ní. Jistou výjimku může tvořit vybavení ze zlata nebo stříbra (ušlechtilé kovy). I ty by však měl Druid používat jen naprosto výjimečně a jen po nezbytně nutnou dobu.
+Za každý den, kdy má u sebe Druid neušlechtilé kovové předměty, musí absolvovat týdenní meditaci ve hvozdu. Pokud tak do týdne neučiní, ztratí své druidské schopnosti.
+ZABITÍ ZVÍŘETE A OČIŠTĚNÍ
+Druid se svým konáním snaží chránit vše živé. Neměl by tedy zabíjet zvířata, pokud to není nezbytně nutné. Může jít o sebeobranu nebo zbavení zvířete utrpení (smrtelné zranění či vážná nemoc). Stejně tak je možné zasáhnout, ztratí-li zvíře vlastní vůli (ať už vlivem kouzel či prokletí). Lov zvířete pro maso je pro Druida krajní možnost, kterou volí jen tehdy, hrozí-li mu smrt hladem.
+Pokud Druid nějaké zvíře zabije, musí se co nejrychleji „očistit“. Činí tak formou meditace, která trvá jednu směnu. Dokud tak neučiní, nebude schopen znovu načerpat svou Duševní sílu.
+OCHRANA HVOZDU
+Druid je služebníkem a ochráncem hvozdu. Dohlíží na to, aby vzkvétal a byl v bezpečí. Hvozd je však živoucí entita a pokud se jeho síla vymkne kontrole, může to vést k hrozivým koncům. Druid se ho tedy snaží udržet ve spánku a zabránit událostem, které by mohly jeho probuzením nastat.
+Pouze pokud je hvozd v extrémním nebezpečí a Druid ho není sám schopen ochránit, může se pokusit jej probudit. Je to však krajní řešení, které se může ve zlém vrátit zpět.
+Více se o hrozbách probuzení hvozdu dozvíš v následující kapitole. Stejně jako o kouzlech a rituálech, které slouží k ovlivnění probuzenosti hvozdu.
+HVOZD
+Každý dobrodruh prožil někdy noc strávenou v lese. Tiché praskání ohně pod měsíčním nebem má své neopakovatelné kouzlo. Někteří však prožili něco zcela jiného. Děsivý ševel listí v bezvětří, praskání větví kolem tábora a nepříjemný pocit, že je někdo pozoruje. Právě takové vzpomínky za sebou nechává hvozd. Není proto divu, že z něj lidé mají přirozený respekt a strach.
+Hvozd je prastarý, hluboký a rozsáhlý les. Místo spojené kolektivním vědomím všech stromů a živých tvorů, kteří v něm žili a žijí. Stává se tak samostatnou entitou, s vlastní pamětí a „povahou“, jež odráží jeho „probuzenosti“ (viz dále).
+Většina druidské moci vychází ze síly hvozdu. Právě v něm ji Druidi také nejčastěji používají. Z pohledu pravidel však platí že: Není-li uvedeno jinak, může Druid použít kouzla a schopnosti hvozdu i v divokém lese. Podmínkou je, aby skrze něj nebo jeho vybranou část nevedly žádné frekventované cesty. Takové území musí mít nejméně jednu míli čtvereční. Podobný les se může navíc časem sám proměnit ve Spící hvozd.
+PROBUZENOST HVOZDU
+Pokud je ve hvozdu klid, říká se o něm, že „spí“. Přítomnost cizích bytostí a jejich nepřátelské chování vůči němu ho však mohou „probudit“. Stejně tak ho dokáže probudit i Druid pomocí speciálních kouzel a rituálů.
+Čím více je hvozd probuzený, tím více je nebezpečný. Začíná si totiž uvědomovat sám sebe i svou minulost. Ta je mnohdy spojená s traumatickým kácením a vypalováním, kterému byl vystaven. Není proto divu, že se snaží případné cizince zahnat a v horším případě zatouží po odplatě. Druidů se jeho hrozba obvykle netýká. I oni se však mohou ocitnout v nebezpečí, zvláště pokud se mu postaví do cesty. Tehdy se jeho zloba může snadno obrátit proti nim. Proto je vždy lepší udržet hvozd ve spánku a pod kontrolou.
+SAMOVOLNÉ PROBUZENÍ
+Jak už bylo zmíněno, hvozd se dokáže „samovolně“ probudit. Dochází k tomu vlivem mnoha různých věcí, které se mohou v něm nebo jeho okolí odehrát. Kumulují tak určitou formu přírodní energie (many), která má vliv na jeho vědomí. Čím více se této energie nastřádá, tím větší je nebezpečí, že se hvozd probudí. Níže jsou uvedeny některé z nejobvyklejších zdrojů probuzenosti hvozdu.
+ 
+
+Tato tabulka je pouze orientační. Hvozd může reagovat i na mnoho dalších podnětů. O těch rozhoduje Pán Jeskyně, který by měl Druida informovat o nárůstu energie v hvozdu.
+Kromě uvedeného „střádání energie“ dochází ve hvozdu i k opačnému jevu, tedy k jejímu uvolňování. Může to mít hned několik příčin.
+První je určitý samoregulační (očistný) mechanismus, který ve hvozdu působí. Díky němu se z něj samovolně každý den „vyzáří“ energie v hodnotě 10 bodů many. Je-li ve hvozdu navíc Druid, může tento efekt ještě posílit. Stačí, aby se věnoval činnosti, která hvozdu prospívá (vyčištění pramene, vysázení nových stromů, dokrmování zvířat v zimě a podobně). V takovém případě je množství uvolněné energie dvojnásobné.
+Stejně tak může docházet k uvolnění energie v případě, kdy je hvozd aspoň částečně při vědomí a používá svá kouzla. Za každé z nich se tak sníží hodnota nastřádané energie v něm podle ceny kouzla.
+Ať už je důvod pro snížení energie hvozdu jakýkoliv, její hodnota nikdy neklesne pod úroveň danou probuzeností hvozdu (viz Tabulka probuzenosti hvozdu).
+
+PŘÍKLAD: V Procitajícím hvozdu je nastřádáno 1505 bodů many. V průběhu dne se z něj samovolně vyzáří 10 bodů many. Klesne však jen na 1500 bodů (místo na 1495), protože jde o hodnotu, která vedla k probuzení na daný stupeň.
+STUPNĚ PROBUZENOSTI HVOZDU
+Dle množství many, která je ve hvozdu nastřádána, se určuje stupeň jeho probuzenosti. Každý z nich se projevuje trochu jinak a odráží úroveň sebeuvědomění hvozdu. Detailní popis jednotlivých stupňů najdeš uveden dále.
+Spící hvozd
+Jak už název napovídá, hvozd se v tomto stádiu ještě nijak neprojevuje. Je v hlubokém spánku a pro náhodného pocestného jde o překrásné místo. Ve dne tam větřík ševelí listry stromů a slunce svítí na palouky plné bylin. V noci je zde bezpečno a pokud něco hrozí, tak jen zbloudilí dravci.
+Dřímající hvozd
+V tomto stádiu hvozd ještě spí, ale pouze neklidným a slabým dřímotem. Pokud vycítí silné narušení života v něm, může se nějak projevit. Podobně jako spáč, kterému někdo šimrá stéblem po tváři, může i on „zamručet“ nebo se „bezděčně poškrábat“. Projeví se to obvykle bezdůvodným vrzáním v korunách stromů, náhlým pádem větve nebo bezhlavým úprkem vyděšené lesní zvěře.
+Procitající hvozd
+Hvozd v tomto stupni probuzení už vnímá věci kolem sebe. Ten, kdo jím putuje, se bude cítit stísněně. Jako by ho někdo pozoroval, ale není jasné odkud a kdo. Pod temným příkrovem hustých větví je onen pocit ještě děsivější. Listí šumí, i když nefouká vítr, a náhle nastává hrobové ticho. Jako by se hvozd snažil poutníky vyděsit. Divoká zvířata na ně mohou bez důvodu zaútočit, kořeny stromů způsobují vyvrtnuté kotníky a podobně. Za nocí se navíc lesem pohybují stromy, které je mohou mást a dělat naschvály.
+Probuzený hvozd
+V tomto stavu je už hvozd plně probuzený a přebírá kontrolu nad situací. To, že je něco v nepořádku, pozná už úplně každý. I ve dne zde vládne nepřirozená tma, v níž občas probleskují tajemná světla. Oživlé stromy bloumají lesem a trestají každého, kdo do něj nepatří. V tomto stupni probuzení je hvozd schopen sesílat všechna hraničářská i druidská kouzla. Jeho cílem je vyčistit celé území od narušitelů. Druid je hvozdem v tomto stádiu obvykle tolerován, pokud se svými skutky nepostaví proti němu. Použití kouzel i proseb je zde pro všechny (mimo Druidů) obtížné. Každý, kdo se o ně pokusí, má k jejich seslání Nevýhodu (postih -5).
+Běsnící hvozd
+Jestliže se hvozd dostane až do tohoto stádia probuzení, vymkne se naprosto kontrole. Vrátí se mu všechny vzpomínky na utrpení tvorů i stromů v něm a spojí se do jediné myšlenky na pomstu. Od této chvíle se stává hvozd pro všechny noční můrou. Ani Druid se nedokáže ubránit strachu. Naprosto běžně se tu pohybují zuřivé oživlé stromy a zběsilá zvěř. Hvozd jejich prostřednictvím napadá vše cizí nejen v sobě ale i v okolí. Lidé jsou bez milosti zabíjeni a jejich statky i usedlosti bleskově zabírá rozrůstající se les. Součástí útoků jsou i lesní kouzla, která už hvozd zcela běžně používá. Naopak, kouzla i prosby všech jiných tvorů (kromě Druidů) zde automaticky selhávají.
+DŮLEŽITÉ: Každý Druid, který se nachází ve hvozdu či jeho okolí, dokáže instinktivně rozpoznat stupeň jeho probuzení. Stejně tak dokáže odhadnout přibližné množství probouzecí many, která je v něm aktuálně nastřádána.
+POSVÁTNÁ MÍSTA DRUIDŮ
+Na světě existují různá místa, která mají pro Druidy zvláštní význam. Jsou totiž zvláště silným způsobem propojena se silami přírody. Druidi je proto používají ke svým obřadům.
+V těchto pravidlech najdeš zmínky o dvou vzácných druidských místech. Jisté však je, že ve světě existují i další. Ta jsou však známa jen těm nejvýše zasvěceným.
+Sesílání druidských kouzel na těchto místech má zvláštní moc. Účinek každého kouzla, které zde Druid provádí, je proto dvojnásobně silný. Některá kouzla jsou navíc natolik náročná, že je mimo tato místa nelze ani seslat.
+Posvátná místa navíc umožňují provádět kouzla a obřadu, do kterých se zapojí více Druidů.
+DRUIDSKÝ KRUH
+Na světě existují místa, kde se střetávají silné proudy přírodní energie. Mocná zřídla života, která lemují mohutné stojící kameny. Symboly z dávných časů, kdy byla síla těchto zřídel poprvé objevena.
+Tajemství budování těchto kamenných kruhů je laikům skryto. Jisté je, že stojící kameny nějakým způsobem usměrňují proudění energie. Pokud jsou některé kruhy poškozené nebo nedostavěné, ztrácejí na síle. I takové však dokáží propůjčit Druidům obrovskou moc. Kouzla prováděná v Druidském kruhu tak vyžadují jen polovinu obvyklé Duševní síly.
+Na sílu kruhů mají vliv i nebeská znamení. Je to právě postavení hvězd, planet či měsíce, které určuje nejlepší čas pro rituály. Proto jsou slunovrat či rovnodennost důležitým svátkem Druidů a důvodem k jejich setkání. Říká se, že ve správný okamžik lze s jeho pomocí uspat i Běsnící hvozd.
+SRDCE HVOZDU
+Srdce hvozdu je místem jeho zrození. Vzniká při proměně lesa z jeho nejstaršího stromu. Tento velikán pak nebývale zmohutní a jeho kořeny prorostou na míle daleko. Všechna jejich síla se pak koncentruje právě v něm.
+Srdce hvozdu je místem, kde rostou nejvzácnější byliny a žijí jedineční magičtí tvorové. Má navíc obrovskou léčivou moc a říká se, že dokáže překonat i smrt.
+Je-li srdce hvozdu zničeno, propadne les chaosu a změní se v Běsnící hvozd. Jeho část začne okamžitě usychat a vše živé v ní umírat. Zbytek však získá střípky vzpomínek původního srdce. Zároveň zaplane vražednou nenávistí ke všemu. Začíná tak regulérní válka hvozdu proti všem. Mnohdy pak trvá věčnost, než se celá situace uklidní. Vzácně se také stává, že jeden či více posedlých stromů zakoření a stvoří tak srdce nového hvozdu.
+ZVLÁŠTNÍ SCHOPNOSTI DRUIDA
+DRUIDSKÉ SVĚCENÍ
+Splynutím s přírodou a dodržováním prastarých tradic se stává svěcení Druida kompletní. Díky tomu se jeho pouto s přírodou prohlubuje za hranice možného. V jejím náručí tak získává mnohem větší moc a schopnosti, než by se mohlo zdát.
+Jakmile se Hraničář stane Druidem, získává ve hvozdu Výhodu (bonus +5) ke všem hodům na dovednost Pouto s přírodou. Mimo hvozd (v běžné přírodě) je tento bonus jen +3.
+DRUIDOVA KOUZLA
+Jakmile Druid pronikne do nejhlubších tajů přírody, získá automaticky přístup k mnoha dalším kouzlům. Ta jsou specifická svým úzkým sepětím s přírodou. Je proto velmi obtížné je sesílat na místech, kde již civilizace toto spojení narušila (města, velké usedlosti atd.). Pokud se o to Druid přesto pokusí, má k ověřovacímu hodu na Pouto s přírodou Nevýhodou (postih -5). V krajních případech se seslání kouzla nepovede vůbec.
+V průběhu let však Druidi našli cestu, jak tato omezení aspoň částečně eliminovat. Na svých cestách tak mohou sbírat různé speciální předměty (byliny, listy a podobně), s jejichž pomocí se může jejich mysl propojit s místem, odkud jej získali. Své Pouto s přírodou pak naváží právě k němu. Nejsou tak závislí na přítomnosti hvozdu. Je jen na Druidovi, zda chce předmět ke kouzlu použít. Jakmile je dokončeno, dotyčný předmět se ihned rozpadá na jemný prach. Tento pomocný předmět je u kouzel veden jako Základ.
+POZNÁMKA: Kromě níže uvedených kouzel existují i speciální Kouzla hvozdu a druidské rituály. Ty jsou natolik mocné, že je lze seslat jen a pouze ve hvozdu. Možnost jejich kouzlení mimo hvozd a to i skrze předmět se na ně proto nevztahuje. Jako základ tak u nich není uveden.
+SEZNAM DRUIDOVÝCH KOUZEL
+Všechna tato kouzla ovládá Druid od šesté úrovně automaticky.
+
+- Obří růst
+- Poskytni příbytek
+- Požehnání přírody
+- Probuzení hvozdu
+- Přilnavost břečťanu
+- Přivolej Druida
+- Splynutí
+- Trnový štít
+- Uklidnění hvozdu
+- Uvadni
+
+VOLITELNÉ SCHOPNOSTI DRUIDA
+Následující volitelné schopnosti jsou dostupné pouze těm Hraničářům, kteří dosáhli potřebných schopností a vědomostí ke specializaci na Druida.
+
+
+--- PÁN ZVÍŘAT ---
+Mezi hraničáři se občas objevují takoví, kteří se rozhodli zasvětit svou duši zvířatům. Důvěřují jim více, než lidem a pojí je s nimi nerozlučné přátelství. Když se pak se svou smečkou někde objeví, jeví se ostatním jako Páni zvířat. Pravda je však mnohem složitější. Jejich vztah je totiž založen na hlubokém duševním poutu, které celou smečku spojuje. To jim pak poskytuje netušené možnosti. Říká se, že dokáží nejen vidět očima zvířat, ale dokonce se v ně proměnit. Jejich smečka jim navíc stojí vždy věrně po boku.
+Aby se Hraničář mohl specializovat a stát se Pánem zvířat, musí nejprve ovládnout následující:
+
+- schopnost Boj se zvířaty
+- znalost Magie zvířat
+- znalost Ochočování zvířat
+
+ZVLÁŠTNÍ SCHOPNOSTI PÁNA ZVÍŘAT
+Každý Pán zvířat získává volbou této specializace automaticky dvě nové zvláštní schopnosti. Díky jedné dokáže stvořit smečku a druhá mu dovolí ochočit netradiční zvířecí přátele.
+
+- Další zvířecí přátelé (S)
+- Smečka (S)
+
+DALŠÍ ZVÍŘECÍ PŘÁTELÉ
+Léta tréninku umožnila Pánovi zvířat dosáhnout mistrovství v jejich pochopení. Naučil se díky tomu vidět zvláštní talent prakticky každého z nich.
+Díky této schopnosti dokáže Pán zvířat „najít“ zvláštní talent u každého ochočeného zvířete. V praxi se to projevuje obvykle tím, že jím ochočená zvířata získají speciální schopnosti odpovídající Zvířecím přátelům dle PPZ. U méně typických zvířat je dokonce možné získat úplně nové schopnosti (dle uvážení Pána Jeskyně). Fyzické atributy ochočených zvířat pak odpovídají běžným atributům daného druhu.
+PŘÍKLAD: Pán zvířat Del Sakin se rozhodne ochočit si vránu místo sokola. Vrána pak bude mít stejnou schopnost jako sokol v PPZ (tj. schopnost poskytnout Výhodu (bonus +5) k Orientaci, vidět dále než ostatní a upozornit křikem na nebezpečí a podobně). Stejně tak si může místo vlka ochočit rysa a podobně.
+SMEČKA
+Každý člen smečky může být hodně odlišný od ostatních. Občas to může vyvolat třenice a občas musí zakročit alfa. Není to však slabina. Naopak, je to zdroj síly smečky, která je hraničáři rodinou.
+Pán zvířat je schopen mít se sebou více zvířecích společníků. Jejich počet je limitován pouze úrovní smečky. Ta je součtem úrovní všech zvířat v ní a nesmí být nikdy vyšší, než je úroveň Pána zvířat.
+Členové smečky mohou získat speciální výcvik, podobně jako klasický hraničářův společník (PPZ H 1.1). Pán zvířat se však při přestupu úrovně stihne věnovat jen jednomu z nich. Je proto na něm, kterého pro tuto činnost v danou chvíli zvolí.
+POZNÁMKA: Doprovod smečky může být pro Pána zvířat problémem například při snaze vstoupit do města. Přeci jen, smečka vlků nebude nic, co by stráže nebo místní kolem sebe rádi viděli. Bývá proto obvyklé, že podobná zvířata zůstávají po dobu hraničářovy nepřítomnosti v divočině za hradbami, kde čekají na svého pána.
+VOLITELNÉ SCHOPNOSTI PÁNA ZVÍŘAT
+Předcházející volitelné schopnosti jsou dostupné pouze těm Hraničářům, kteří dosáhli potřebných schopností a vědomostí ke specializaci na Pána zvířat.
+
+
+
+
+=== 4. Alchymista ===
+
+--- ALCHYMISTA ---
+Roky experimentování a praxe učinily z Alchymistů ostřílené veterány. Díky svým schopnostem si mnoho z nich dokázalo otevřít vlastní krámek a vyrůst ve vynikající obchodníky se vzácným zbožím. Získané bohatství jim následně umožnilo rozšířit jejich laboratoř a proniknout tak ještě hlouběji do tajů prastarého umění.
+Alchymista je vědec, který pronikl k samé podstatě věcí. S dostatkem času dokáže vyrobit ohromné množství užitečných předmětů. Ty se dají použít v boji i mimo něj. Je proto vítanou posilou každé družiny. Jsou to právě oni, kdo svým vybavením rozhoduje o úspěchu či selhání každé mise.
+POZNÁMKA: Hraní Alchymisty je velmi specifické. Neexistuje totiž žádná jiná profese, která by v sobě zahrnovala tolik informací, receptů a výrobních postupů. Bude to od tebe vyžadovat určitý přehled a studium, abys ho zvládl odehrát a ovládl všechny jeho schopnosti. Odměnou ti však bude možnost prozkoumat a vyrobit předměty, které nemusí být ani uvedeny v pravidlech.
+POKROČILÉ SCHOPNOSTI ALCHYMISTY
+Jakmile Alchymista dosáhne šesté úrovně, stává se z něj pokročilý dobrodruh. Ovládne tak automaticky novou schopnost, díky které dokáže naplno využívat možnosti své dílny. Tato schopnost je společná všem pokročilým Alchymistům bez ohledu na jejich případnou specializaci (viz Specializace Alchymisty).
+POKROČILÁ SCHOPNOST ALCHYMISTY:
+
+- Alchymistická dílna
+
+ALCHYMISTICKÁ DÍLNA
+Opravdového mistrovství ve svém oboru může Alchymista dosáhnout pouze ve své laboratoři. Dobře vybavená dílna je totiž nutností pro výrobu opravdu složitých a precizních výtvorů. Není divu, že se ji Alchymisté snaží dříve či později získat.
+Alchymisté mohou svou dílnu založit prakticky kdekoliv. Vždy by však mělo jít o místo s dostatkem prostoru pro experimenty, kde lze bezpečně uložit speciální vybavení. Obvykle zde najdeš velký stůl, skříně s různými knihami, váčky a dózy se surovinami. Stejně tak jsou zde misky, hmoždíře, kahany, křivule a další užitečné vybavení, které usnadňují Alchymistovi práci.
+Movitější Alchymisté si tak časem kupují nějakou věž či dům, kde si svou dílnu zřídí. Vybudování alchymistické dílny je však poměrně nákladná záležitost. Navíc je nutné se o ni neustále starat, udržovat ji a také ji dobře zabezpečit. V tabulce dále pak najdeš ukázku několika „nejběžnějších“ typů nemovitostí, které se pro tento účel hodí.
+Zařízení a zprovoznění nové dílny trvá 1 týden. Poté je možné ji začít běžně používat. Kromě běžné alchymistické dílny existuje i několik dalších druhů, které jsou však dostupné jen patřičné specializaci.
+Práce v alchymistické dílně zrychluje destilaci many a poskytuje Výhodu při provozování Lučby dle tabulky.
+PRONÁJEM ALCHYMISTICKÉ DÍLNY
+Ne každý Alchymista musí mít svou dílnu. Vždyť hrdinové tráví mnoho času na cestách a nemusí mít na podobné věci čas. Na druhou stranu však mohou mít potřebu služby dílny využít. V takovém případě je obvykle ve větších městech možnost si dílnu na čas pronajmout.
+Je však potřeba si domluvit čas a za pronájem zaplatit (viz Tabulka alchymistických dílen). Stejným způsobem může Alchymista samozřejmě také pronajímat svou dílnu jiným putovním Alchymistům. Může si tak přivydělat na její údržbu.
+
+Specifickým případem jsou pak cechovní a gildovní dílny. Pokud se Alchymista stane členem podobného spolku, má to pro něj podobné přínosy i závazky jako členství Klerika v řádu. Obvykle pak tráví určitý čas na cestách, sháněním vzácných ingrediencí dle požadavků gildy a podobně. Za to pak může získat přístup k cechovním dílnám v různých městech a pomoc kolegů, kterým na oplátku musí pomoci on.
+SPECIALIZACE ALCHYMISTY
+Po dosažení šesté úrovně se může Alchymista dále specializovat ve své profesi a stát se Medikem, Pyromantem nebo Theurgem. Podmínkou specializace je dosažení minimálně šesté úrovně a předchozí zvládnutí kombinace zvláštních schopností, které k danému zaměření náleží. Jakmile se pro to rozhodneš, oznámíš to Pánovi Jeskyně při přestupu na další úroveň.
+Specializace povolání není povinná. Pokud chceš, můžeš dál pokračovat v původní cestě Alchymisty, která ti i tak nabízí spoustu nových užitečných schopností. Stejně tak se můžeš rozhodnout pro specializaci až později (na vyšších úrovních).
+Než se však pro nějakou specializaci definitivně rozhodneš, dobře si to promysli. Volbu totiž nelze vzít zpět a jednou vybraná specializace ti zůstává natrvalo. Nelze ji proto později vyměnit za jinou.
+Jakmile si nějakou specializaci zvolíš, můžeš si při přestupu mezi úrovněmi vybírat ze schopností, které k ní náleží. Stejně tak se však můžeš rozhodnout i pro libovolné schopnosti, které nabízí obecné povolání Alchymisty. Seznam těchto obecných schopností je uveden níže a schopnosti specializací pak v jejich samostatných podkapitolách.
+Jestliže nemáš vybranou žádnou specializaci, můžeš si na každé šesté úrovni vybrat jednu schopnost náležící některé z nich.
+VOLITELNÉ SCHOPNOSTI ALCHYMISTY OD 6 ÚROVNĚ
+Následující volitelné schopnosti jsou dostupné všem Alchymistům (a to i těm, kteří se rozhodnou věnovat nějaké specializaci).
+
+
+--- MEDICUS ---
+Medikové jsou zřejmě nejrozporuplnější sortou Alchymistů. Jejich umění je vysoce ceněno, protože dokáží zachraňovat životy. Na druhou stranu jejich práce budí i hluboký odpor a opovržení. Nemají totiž žádný stud a zábrany. Je-li to potřeba, neváhají totiž chirurgickými zásahy změnit pacienta k nepoznání. Právě tato nepřirozená vylepšení bývají často důvodem jejich pronásledování. Pravdou však je, že je to jen zlomek toho, co dokáží. Chránění svými „sešívanci“ v laboratořích, používají těla jako zdroj nových léků a zázračných výrobků.
+Aby se Alchymista mohl specializovat a stát se Medikem, musí nejprve ovládnout následující zvláštní schopnosti:
+
+- znalost oboru Alchymistické ingredience
+- znalost oboru Lektvary a elixíry
+- schopnost Substituce
+
+ZVLÁŠTNÍ SCHOPNOSTI MEDIKA
+Každý Medicus získává volbou této specializace automaticky dvě užitečné zvláštní schopnosti. Jedna mu umožňuje používat a zřídit speciální druh alchymistické dílny. Druhá ho naučí jemnému umění Chirurgie.
+
+- Alchymistická dílna - Laboratoř
+- Chirurgie (D)
+
+ALCHYMISTICKÁ DÍLNA - LABORATOŘ
+Laboratoř je speciální alchymistickou dílnou. Jde o velmi čistou a chladnou místnost. V jejím středu stojí velký pitevní a operační stůl s koženými či kovovými popruhy. Dále jsou zde speciální světla, infuzní sety, skleněné válce s konzervační tekutinou a další předměty. Pro potřeby laboratoře je zapotřebí do Alchymistické dílny zakoupit vybavení v hodnotě 100 zl.
+Laboratoř poskytuje Medikovi navíc bonus k provozování Chirurgie (dle tabulky).
+Bonusy a další informace o Alchymistických dílnách a jejich fungování najdeš v kapitole Alchymista.
+CHIRURGIE (OBR)
+Profesní dovednost (5. stupeň zvládnutí)
+Ověření: Chirurgie (OBR) vs. X
+Dokonale přesná práce se skalpelem je základem chirurgického umění. Díky němu dokáže Medicus provádět veškeré operace, zachraňovat život nebo jej měnit.
+Použití této dovednosti trvá 1 směnu. Během prvního kola se Medicus pokusí provizorně ošetřit ránu a zastavit krvácení, následně ji důkladně ošetří. K ověření úspěchu je potřeba provést ověřovací hod Chirurgie (OBR) vs. X (ta se liší dle závažnosti poranění a určí ji Pán Jeskyně).
+Úspěšné ošetření automaticky zastavuje krvácení a zároveň vyléčí tolik životů, jaký je stupeň dovednosti Chirurgie Medika.
+Součástí této dovednosti je i zvládnutí výroby několika tinktur, které ke své praxi potřebuje:
+
+
+
+- Konzervační lák
+- Paralyzující tinktura
+- Tinktura proti bolesti
+- Uspávací tinktura
+
+
+
+VOLITELNÉ SCHOPNOSTI MEDIKA OD 6 ÚROVNĚ
+Následující volitelné schopnosti jsou dostupné pouze těm Alchymistům, kteří dosáhli potřebných schopností a vědomostí ke specializaci Medika.
+
+
+--- PYROMANT ---
+Pyromanti jsou zřejmě nejnebezpečnější Alchymisté. Postupem času totiž pronikli do tajemství všech druhů látek a materiálů. Mnoho jich za to ostatně zaplatilo životem. Ti, kteří své experimenty přežili, se naučili vyrábět vzácné slitiny, třaskaviny i zbraně. Kromě toho se stali tvůrci mechanických konstruktů a strojů. Není divu, že je o jejich produkty velký zájem jak v armádě, tak mezi elitními dobrodruhy. Když se vydají na cesty a dojde na věc, mohou svými hračkami spustit pravou apokalypsu. Ta ovšem někdy semele i je samotné.
+Pokud se Alchymista chce specializovat a stát se Pyromantem, musí nejprve ovládnout následující zvláštní schopnosti:
+
+- znalost oboru Magické předměty
+- znalost oboru Nestabilní substance
+- schopnost Výroba svitků
+
+ZVLÁŠTNÍ SCHOPNOSTI PYROMANTA
+Každý Pyromant získává volbou této specializace automaticky dvě užitečné zvláštní schopnosti. Jedna mu umožňuje používat a zřídit speciální druh alchymistické dílny, druhá ho naučí nebezpečnému umění Pyromancie.
+
+- Alchymistická dílna - Výheň
+- Pyromancie (D)
+
+ALCHYMISTICKÁ DÍLNA - VÝHEŇ
+Výheň je speciální alchymistickou dílnou. Vzhledem se v mnohém podobá kovárně. Její vybavení je však mnohem preciznější. Kromě tavící pece na zpracování rud jsou zde nástroje na odlévání a tvarování slitků. Mimo to obsahuje i velký pracovní stůl a oddíl pro jemnou mechaniku a práci s třaskavinami. Pro potřeby výhně je zapotřebí do Alchymistické dílny zakoupit vybavení v hodnotě 100 zl.
+Výheň poskytuje Pyromantovi navíc bonus k provozování Pyromancie a Mechaniky (dle tabulky).
+Více informací o Alchymistických dílnách a jejich fungování najdeš uvedeno v kapitole Alchymista.
+PYROMANCIE (OBR)
+Profesní dovednost (5. stupeň zvládnutí)
+Ověření: Pyromancie (OBR) vs. X
+Dokonalá znalost a ovládnutí práce s trhavinami a třaskavinami je základem pyromantského umění. Díky němu dokáže Pyromant vyrábět mnoho nebezpečných předmětů, od malých a zábavných ohňostrojů až po velmi ničivé zbraně.
+Tato schopnost navíc poskytuje Pyromantovi Výhodu (bonus +5) při každém ověřovacím hodu na dovednost Lučba při výrobě předmětů z oboru Nestabilní substance.
+VOLITELNÉ SCHOPNOSTI PYROMANTA OD 6 ÚROVNĚ
+Následující volitelné schopnosti jsou dostupné pouze těm Alchymistům, kteří dosáhli potřebných schopností a vědomostí ke specializaci na Pyromanta.
+
+
+--- THEURG ---
+Theurgové jsou považováni za alchymistickou smetánku. Ve svém výzkumu totiž dokázali proniknout za hranice našeho světa. To, co tam objevili, jim následně otevřelo cesty do jiných sfér. Zaměřili se tedy na studium krystalů a energií, které jim umožnily otevírat trhliny mezi nimi. Dokáží jimi přitahovat mocné bytosti, stejně jako je ohýbat a využívat je k propojení různých míst v naší realitě. Jisté je, že právě díky kontaktům s bytostmi v jiném světě dokáží vyrábět předměty, které nezvládne nikdo jiný.
+Aby se Alchymista mohl specializovat a stát se Theurgem, musí nejprve ovládnout následující zvláštní schopnosti:
+
+- znalost oboru Hvězdné sestavy
+- znalost oboru Krystaly a energie
+- schopnost Precizní výroba
+
+ZVLÁŠTNÍ SCHOPNOSTI THEURGA
+Každý Theurg získává volbou této specializace automaticky dvě užitečné zvláštní schopnosti a jeden speciální předmět. První schopnost mu umožňuje používat a zřídit unikátní druh alchymistické dílny. Druhá ho naučí tajemnému umění Theurgie.
+
+- Alchymistická dílna - Astrolab
+- Theurgie (D)
+- Theurgova hůl
+
+ALCHYMISTICKÁ DÍLNA - ASTROLAB
+Astrolab je speciální alchymistickou dílnou. Jedná se o prostor pod střechou budovy s dobrým výhledem na oblohu, který je vybaven masivním dalekohledem. Na jeho podlaze bývá speciální runový kruh s krystaly k povolávání démonů a elementů. Na stropě jsou zakresleny pohyby nebeských těles a na stolech všemožné pomůcky k výpočtům konstelací a další užitečné předměty. Pro potřeby astrolabu je zapotřebí do Alchymistické dílny zakoupit vybavení v hodnotě 100 zl.
+Astrolab poskytuje Theurgovi navíc bonus k provozování Theurgie (dle tabulky).
+Více informací o alchymistických dílnách a jejich fungování najdeš v kapitole Alchymista.
+THEURGIE (INT)
+Profesní dovednost (5. stupeň zvládnutí)
+Ověření: Theurgie (INT) vs. X
+Znalost hvězdných sestav, konjunkcí těles a jejich vliv na propojení s jinými plány existence je vzácné umění. Díky němu dokáže Theurg nejen zlepšit své dřívější postupy, ale také začít experimentovat a aktivně přivolávat na svět démony sfér či posly živlů.
+Tato schopnost navíc poskytuje Alchymistovi Výhodu (bonus +5) při každém ověřovacím hodu na dovednost Lučba při výrobě předmětů z oboru Hvězdné sestavy.
+THEURGOVA HŮL
+Theurgova hůl je speciální nástroj, který má schopnost otevírat trhliny mezi sférami. Stejně tak v sobě dokáže udržet démony těchto sfér nebo přivolat elementy či posly živlů.
+Výroba hole
+Theurgova hůl se vyrábí z kořenů jasanového nebo ebenového dřeva. Tyto stromy totiž dokáží lépe odolávat působení velkého množství magie. Důležité však je, aby dřevo bylo zdravé a přežilo extrakci a úpravu.
+Za tímto účelem Alchymista připraví speciální balzamovací olej, do kterého napustí 200 bodů many. Tento olej pak opatrně vtírá do kůry stromu. Po týdnu je konzervace hotová a kmínek je vytažen ze země a pečlivě opracován. Obvykle jsou do něj při tom jemně vyryty runové značky a symboly tajného umění. Kromě toho je okován jeho konec, stejně jako je vyrobena hlavice hole. Ta může být zcela jednoduchá nebo vylepšená o úchyt z drahého kovu.
+Teprve pak přichází nejtěžší část výroby hole, kterou je stvoření Astrálního krystalu (Astronu). K jeho výrobě je nejprve potřeba sehnat kus dokonalého, nejlépe trpasličího, křišťálu a několika malých zrcadel. Následně je potřeba vyčkat na jasnou úplňkovou noc. Se západem slunce Theurg dojde k vhodné tůni nebo si aspoň připraví dostatečně velkou nádobu s čistou vodou. Do ní opatrně vloží zrcadla tak, aby odrážela paprsky ze všech směrů do jejího středu. Zhruba hodinu před půlnocí pak vloží do „zrcadlového lože“ samotný krystal a vodu postupně prosycuje manou (100 bodů). Jestliže provedl vše správně, nachytá do sebe krystal svit měsíce a hvězd a bude iniciován.
+K dokončení výroby hole však dojde až nad ránem. Theurg s prvními slunečními paprsky vytáhne Astron z vody. Ten se zamlží a stane se průsvitným. Následně je vložen do hlavice hole, čímž se skrze manu propojí. Od té chvíle už ho není možné z hole oddělit. Pokud by k tomu přeci jen došlo, dojde k okamžitému zničení obou předmětů.
+Theurgova hůl v boji
+Theurgova hůl je extrémně odolná. Lze ji proto použít v boji jako lehkou obouruční drtivou zbraň. Zároveň poskytuje Výhodu (bonus +5) při boji s démony či elementály.
+
+Theurgova hůl – alchymistické použití
+Theurgova hůl se používá ke spojení s astrálními sférami nebo živly. Právě mana z ní je schopna otevírat „trhliny“ mezi světy. Theurg do ní proto dokáže vložit až 1000 bodů many. Rychlost tohoto „dobíjení hole“ je 10 bodů many za kolo.
+Hůl má v sobě krystal (Astrón), do kterého lze zachytit démona. Podle potřeby ho lze následně jednorázově (dotykem) přenést do jiného předmětu nebo ho myšlenkou propustit do jeho domovské sféry.
+S démonem v Astrónu je Theurg navíc schopen komunikovat a on musí v naší sféře plnit jeho příkazy. Dokud je tedy v krystalu, je možné s ním dohodnout i podmínky jeho fungování při přesunu do předmětu. Tyto příkazy by neměly být ideálně příliš složité. Démoni totiž svůj přesun z pohodlí Astrónu někam jinam nesou nelibě a bývají škodolibí. Čím více výkladů příkaz umožňuje, tím větší šance je, že se Theurg od démona dočká nepříjemného překvapení.
+DŮLEŽITÉ: V jednu chvíli lze mít v Astrónu polapeného pouze jednoho démona. Jestliže by se někdo pokusil jich do něj vměstnat víc, vedlo by to k težko předvídatelné reakci.
+VOLITELNÉ SCHOPNOSTI THEURGA OD 6 ÚROVNĚ
+Následující volitelné schopnosti jsou dostupné pouze těm Alchymistům, kteří dosáhli potřebných schopností a vědomostí ke specializaci na Theurga.
+
+
+
+
+=== 5. Kouzelník ===
+
+--- KOUZELNÍK ---
+Kouzelníci, kteří již na svých cestách něco prožili, získali mnoho cenných zkušeností. Už to nejsou ustrašení nováčci, ale muži a ženy budící respekt a obavy. Díky své praxi se záhy stávají adepty magických oborů a nikdo přesně neví, kam až jejich schopnosti sahají.
+Kouzelník se na vyšších úrovních stává opravdovou „divokou kartou“ každé družiny. Ovládá už totiž desítky různých kouzel, kterými může zcela zvrátit průběh boje nebo zasáhnout mimo něj. Jeho schopnosti jsou někdy navíc jediným řešením určitých situací. Není proto divu, že je vítanou posilou každé družiny.
+POKROČILÉ SCHOPNOSTI KOUZELNÍKA
+Jakmile Kouzelník dosáhne šesté úrovně, stává se z něj pokročilý dobrodruh. Ovládne tak automaticky dvě nové schopnosti. Pomocí jedné dokáže rozeznat používání magie kolem sebe a druhá mu umožňuje vyrobit speciální magickou hůl. Tyto schopnosti jsou společné všem pokročilým Kouzelníkům, bez ohledu na jejich případnou specializaci (viz Specializace Kouzelníka).
+POKROČILÉ SCHOPNOSTI KOUZELNÍKA
+
+- Kouzelníkova hůl
+- Zaslechnutí kouzla
+
+Kromě toho dokáže Kouzelník nově přivolat i několik dalších druhů svých přátel.
+KOUZELNÍKOVA HŮL
+Kouzelníkova hůl je odjakživa důležitým znakem této profese. Nejde zdaleka jen o symbol, ale je to také Kouzelníkův zdroj moci a nástroj, kterým dokáže svá kouzla lépe směrovat a posilovat.
+Kouzelníkova hůl je předmět, který se nedá jednoduše koupit nebo najít. Kouzelník si ji totiž musí sám vyrobit. Má k ní proto zvláštní a jedinečný vztah. Hůl proto funguje jako magický předmět pouze a jen v jeho rukou.
+Rituál hole
+Kouzelník musí nejprve najít či získat hůl, která se mu líbí. Obvykle jde o kus zdravého tisového či jasanového dřeva, ale není to podmínkou. Jde spíše o tradici a jen někteří Kouzelníci tvrdí, že jiné dřevo vydrží proudění magie lépe. Opět je na Kouzelníkovi, jakou variantu si zvolí.
+Různé podobory magie mají navíc své vlastní formy „holí“. Ty se mohou lišit svým základem, a proto se ve finále ani o hole v pravém slova smyslu jednat nemusí (například Nekromantská dýka). I k jejich výrobě je však potřeba zvládnout tuto primární schopnost. Detaily specifických holí dle specializací jsou pak popsány přímo u nich.
+Jakmile si Kouzelník zajistí základ pro výrobu hole, přichází čas na samotný rituál. Tomu předchází den půstu a hluboké meditace v naprostém klidu a samotě. Samotný rituál pak začíná obvykle po západu slunce. Kouzelník při něm vyčerpá všechnu svou manu a vpraví ji do hole ve formě neviditelných run. Hůl se tímto rituálem stane magickou a jde o jedinečný nástroj svázaný s jeho duší. S příchodem svítání je pak rituál kompletní.
+Pokud je Kouzelník při rituálu hole vyrušen, výroba se nezdaří a základní předmět obvykle praskne nebo se jinak znehodnotí. Chce-li se proto Kouzelník o výrobu pokusit znovu, musí si sehnat nový základní předmět a dopřát si aspoň den vydatného odpočinku.
+Parametry hole jako zbraně odpovídají její běžné variantě. Stejné je to i u jiných variant hole dle Kouzelnických specializací.
+Žádnou variantu Kouzelnické hole už není možné dále vylepšovat pomocí alchymie. Přítomnost cizí many by hůl zničila.
+Schopnosti hole
+Hůl přináší Kouzelníkovi následující schopnosti (pochopitelně, pokud ji má v ruce):
+
+- 
+Zlepšené sesílání - Kouzelník si zvolí 1 obor magie a získá tak trvalý bonus +1 k sesílání všech kouzel k tomuto oboru náležících.
+
+- 
+Dosah dotekem hole - Kouzla, která mají dosah dotek, lze seslat dotknutím hole - toto pravidlo platí obecně pro každý vhodný předmět, který Kouzelník drží v ruce, zde ho pouze připomínáme.
+
+- 
+Ukládání a čerpání many - Hůl samotná je schopna pojmout 2 body many za každou úroveň Kouzelníka. Kouzelník je schopen vložit svou manu do hole během jednoho kola. Uloženou manu může kdykoliv použít k sesílání kouzel.
+
+- 
+Vysoká odolnost - Takto vyrobená hůl (předmět) získává rituálem extrémní odolnost. Není možné ji běžnými zbraněmi poškodit.
+
+- 
+Přivolání hole - Kouzelník dokáže svou hůl „přivolat“ do ruky. Jde o jednoduchý Kouzelnický trik za 1 bod many. Přivolání hole je okamžitou akcí a není potřeba se na ni extrémně soustředit. Dosah, na který lze hůl přivolat, odpovídá tolika sáhům, jaká je úroveň Kouzelníka. Hůl navíc nesmí být někde napevno přichycena nebo zapadlá za nepřekonatelnou překážkou.
+
+
+Různé další varianty Kouzelnických holí (dle specializace Kouzelníka) si zachovávají všechny výše uvedené základní schopnosti hole + obsahují nějaké další.
+ZASLECHNUTÍ KOUZLA
+Každé kouzlo rozvíří vichry many a jeho stopa se v jejich poryvech šíří podobně, jako kola v rybníce po dopadu kamene. Citlivější kouzelníci jsou schopni tyto vlnky zachytit a rozpoznat, co je způsobilo nebo dokonce, kdo původní kouzlo vyvolal. Každé kouzlo i každý Kouzelník mají ve vichrech svůj vlastní odraz.
+Touto schopností může Kouzelník vycítit, zda bylo v jeho blízkosti nedávno sesláno nějaké kouzlo, či zda v oblasti kde se pohybuje, stále nějaké kouzlo působí. Aby si toho všiml, musí se krátkou akcí soustředit a překonat ověřovací hod na Sesílání kouzel (INT) Kouzelníka vs. Sesílání kouzel (INT) zdroje. Při úspěchu dokáže odhadnout směr, vzdálenost i dobu, před jakou bylo kouzlo sesláno. Pokud kouzlo ovládá, dokáže jej navíc bez problému identifikovat.
+Silná kouzla může kouzelník vycítit i mimoděk (na rozhodnutí Pána Jeskyně).
+DALŠÍ KOUZELNÍKOVI PŘÁTELÉ
+Od šesté úrovně je Kouzelník schopen přivolat i jiné druhy magických přátel, než jsou ti uvedení v PPZ H. Těmito tvory jsou had, netopýr a havran.
+Had
+Hadi působí lstivě a nebezpečně. Pravdou je, že obojí může být skutečností. Hadi se totiž dokáží proplížit prakticky všude a co víc, dokáží i poměrně slušně plavat. Jsou navíc velmi tiší a překvapivě rychlí.
+Kromě toho mají u zubů váček, který se každý den doplňuje zásobou jedu. Pokud had někoho kousne, musí dotyčný překonat past na ODO vs. 8. V případě neúspěchu je otráven a do zneutralizování (ošetření) ztrácí každé kolo 1k6 životů.
+Havran
+Havrani patří mezi klasické přátele pokročilých Kouzelníků a Čarodějů. Jsou to společenští tvorové, které ani jejich přátelství s Kouzelníkem zcela neodloučí od původního hejna. Pokud se tedy poblíž vyskytují jiní havrani, dokáže s nimi komunikovat a zjistit cenné informace.
+Kromě toho má havran schopnost používat klasické Kouzelnické triky jako jeho pán.
+Netopýr
+Netopýři jsou děti noci. Ne nadarmo se říká, že jsou sluhové temnot, kteří se mnohdy vyskytují poblíž Nekromantů. Mají schopnost echolokace, díky které dokáží neuvěřitelně obratně létat i v naprosté tmě a proniknout i do malých skulin.
+Kromě toho dokáží sát krev a tím se krmit a léčit. Za každý život, který takto někomu vezmou, si sami jeden uzdraví.
+
+Níže najdeš kompletní tabulku many Kouzelníka, která pokrývá všechny dosažitelné úrovně postavy.
+
+SPECIALIZACE KOUZELNÍKA
+Po dosažení šesté úrovně se může Kouzelník dále specializovat ve své profesi a stát se Bojovým mágem, Čarodějem nebo Nekromantem. Podmínkou specializace je dosažení minimálně šesté úrovně a předchozí zvládnutí kombinace zvláštních schopností, které k danému zaměření náleží. Jakmile se pro to rozhodneš, oznámíš to Pánu Jeskyně při přestupu na další úroveň.
+Specializace povolání není povinná. Pokud chceš, můžeš dál pokračovat v původní cestě Kouzelníka, která ti i tak nabízí spoustu nových užitečných schopností. Stejně tak se můžeš rozhodnout pro specializaci až později (na vyšších úrovních).
+Než se však pro nějakou specializaci definitivně rozhodneš, dobře si to promysli. Volbu totiž nelze vzít zpět a jednou vybraná specializace ti zůstává natrvalo. Nelze ji proto později vyměnit za jinou.
+Jakmile si nějakou specializaci zvolíš, můžeš si při přestupu na vyšší úroveň vybírat ze schopností, které k ní náleží. Stejně tak se však můžeš rozhodnout i pro libovolné schopnosti, které nabízí obecné povolání Kouzelníka. Seznam těchto obecných schopností najdeš uveden níže a schopnosti specializací pak v jejich samostatných podkapitolách.
+Jestliže nemáš vybranou žádnou specializaci, můžeš si na každé šesté úrovni vybrat jednu schopnost náležící některé z nich.
+Volitelné schopnosti kouzelníka od 6. úrovně
+Následující volitelné schopnosti jsou dostupné všem Kouzelníkům (a to i těm, kteří se rozhodnou věnovat nějaké specializaci).
+
+
+--- BOJOVÝ MÁG ---
+Bojoví mágové propadli vzrušení života na hraně rizika a smrti. Mnozí z nich dříve zažili šikanu a teprve zoufalá snaha přežít jim dala sílu ovládnout divokou magii. Tehdy pronikli do tajemství bojových a ochranných kouzel. Tato zaklínadla umí navíc sesílat tak rychle, že dokáží přerušit vyvolávání ostatních.
+Ač mohou jejich kouzla vypadat primitivně, jsou neuvěřitelně efektivní. Ohnivé koule, kamenný déšť či magické tornádo dokáží srovnat se zemí i celé vesnice. Bojoví mágové nikdy nezískají hluboké vědění Čarodějů. Zato však nikdy nepanikaří v boji a zvládnou se soustředit na kouzla. Když je to potřeba, dokáží si vykouzlit i magickou zbraň.
+K tomu, aby se mohl Kouzelník stát Bojovým mágem, musí nejprve ovládnout následující:
+
+- znalost oboru Divoká magie
+- znalost oboru Ochranná magie
+- schopnost Rychlé kouzlení
+
+ZVLÁŠTNÍ SCHOPNOSTI BOJOVÉHO MÁGA
+Každý Bojový mág získává volbou této specializace automaticky jednu užitečnou zvláštní schopnost, která mu pomáhá v boji.
+
+- Zbraň Bojového mága
+
+ZBRAŇ BOJOVÉHO MÁGA
+Bojoví mágové dokáží vyrobit a používat i klasickou Kouzelnickou hůl. Mnoho z nich však už ze své podstaty volí raději její jinou formu. Mágové totiž dokáží vyrobit obdobu hole i z jakékoliv jiné běžné zbraně. Ta má pak stejné parametry jako původně použitá zbraň. Platí však omezení, že k výrobě Zbraně bojového mága není možné použít takovou, která už obsahuje magii. Stejně tak ji později nelze dále vylepšit alchymistickou magií a podobně.
+Výroba Zbraně Bojového mága se provádí obdobným rituálem jako výroba Kouzelnické hole. Vztahují se na ní proto stejné podmínky s ohledem na dobu potřebnou k její výrobě, ztrátu této zbraně a podobně.
+Schopnosti Zbraně Bojového mága jsou stejné jako ty u běžné Kouzelnické hole (viz Schopnosti hole). Navíc však disponuje ještě několika dalšími:
+
+- 
+Ochrana před střelami - Umožňuje bránit se pomocí zbraně i střeleckým útokům.
+
+- 
+Magické zranění - Pokud zbraň protivníka zraní, lze toto Zranění posílit použitím bodů many z hole. Za každý odsátý bod many se zvýší Zranění o jeden život (množství many je nutné oznámit před hodem).
+
+
+VOLITELNÉ SCHOPNOSTI BOJOVÉHO MÁGA OD 6 ÚROVNĚ
+Následující volitelné schopnosti jsou dostupné pouze těm Kouzelníkům, kteří dosáhli potřebných schopností a vědomostí ke specializaci na Bojového mága.
+
+
+--- ČARODĚJ ---
+Čarodějové vědí, že moc se skrývá ve vědění. Pronikli do nejzazších tajů magie a dokázali ji naprosto ovládnout. Říká se, že jejich mysl je nezlomitelná a z pohledu na ně se běžným smrtelníkům ježí chlupy po celém těle. Ať již je to fascinací či strachem, těmto lidem není radno odporovat.
+Čaroděj je schopen sesílat ta nejmocnější kouzla. Dokáže si je navíc předpřipravit a různě je upravovat. Kromě toho dokáže svou myslí napadnout někoho jiného. Tím už je pouhý krok od toho, aby si dotyčného naprosto podrobil a využil ho jako loutku ve svých hrách.
+K tomu, aby se mohl Kouzelník stát Čarodějem, musí nejprve ovládnout následující:
+
+- znalost oboru Vysoká magie
+- znalost oboru Mentální magie
+- schopnost Kouzlení z knih
+
+ZVLÁŠTNÍ SCHOPNOSTI ČARODĚJE
+Každý Čaroděj získává volbou této specializace automaticky jednu užitečnou zvláštní schopnost, která mu pomáhá v boji.
+
+- Čarodějova hůl
+
+ČARODĚJOVA HŮL
+Čarodějové dokáží vyrobit a používat i klasickou Kouzelnickou hůl. Mnoho z nich však dává přednost něčemu honosnějšímu a mocnějšímu - holi Čaroděje. Ta má v sobě vzácný krystal (obvykle drahokam), který má zvláštní dar poutat manu. Propůjčuje tak holi další nevídané možnosti.
+Výroba Čarodějovy hole se provádí obdobným rituálem, jako výroba Kouzelnické hole. Vztahují se na ni proto stejné podmínky s ohledem na dobu potřebnou k její výrobě, ztrátu této zbraně a podobně.
+Schopnosti Čarodějovy hole jsou stejné, jako ty u běžné Kouzelnické hole (viz Schopnosti hole, strana 266). Navíc však disponuje ještě několika dalšími:
+
+- 
+Snadnější kouzlení - Čaroděj při používání hole získává bonus +2 k Sesílání kouzel.
+
+- 
+Ukládání a čerpání many - Díky krystalu dokáže hůl koncentrovat 3 body many za každou úroveň Čaroděje. Pro práci s ní platí stejná pravidla jako u běžné Kouzelnické hole.
+
+- 
+Zvýšený dosah - Kouzla s dosahem dotek lze díky holi sesílat až na vzdálenost pěti sáhů bez nutnosti fyzického kontaktu s cílem kouzla.
+
+
+VOLITELNÉ SCHOPNOSTI ČARODĚJE OD 6 ÚROVNĚ
+Následující volitelné schopnosti jsou dostupné pouze těm Kouzelníkům, kteří dosáhli potřebných schopností a vědomostí ke specializaci na Čaroděje.
+
+
+--- NEKROMANT ---
+Cílem cesty Nekromanta je věčný život pro sebe a pro ty, které miluje. K dosažení tohoto mistrovství je potřeba zahodit veškeré koncepty morálky a běžného myšlení. Za toto může být mnohými opovrhován. Nekromant však ví, že pokud chce opravdu proniknout do tajů tohoto temného umění, jsou věci, které bude muset obětovat.
+Vládci nad životem a smrtí nejsou jen pouhými vyvolávači mrtvol. Dokáží svou mysl přenést do jiného těla, či využít vitální sílu druhých k posílení svých kouzel. Mají naprostou kontrolu nad toky energií ve svém těle. Mnozí učenci také tvrdí, že pokořili smrt.
+K tomu, aby se mohl Kouzelník stát Nekromantem, musí nejprve ovládnout následující:
+
+- znalost oboru Vitální magie
+- znalost oboru Magie proměn
+- schopnost Rituál krve
+
+ZVLÁŠTNÍ SCHOPNOSTI NEKROMANTA
+Každý Nekromant získává volbou této specializace automaticky jednu užitečnou zvláštní schopnost, která mu pomáhá v boji.
+
+- Nekromantova dýka
+
+NEKROMANTOVA DÝKA
+Nekromanti dokáží vyrobit a používat i klasickou Kouzelnickou hůl. Mnoho z nich však po zvládnutí této schopnosti sáhne po něčem jiném. Tím je Nekromantova dýka, která je jeho vlastní obdobou „hole“.
+Výroba dýky se pak provádí obdobným rituálem jako výroba Kouzelnické hole. Vztahují se na ni stejné podmínky s ohledem na dobu potřebnou k její výrobě, ztrátu této zbraně a podobně.
+Nekromantova dýka je ostrý obřadní nástroj. Díky tomu má několik unikátních schopností popsaných níže. Kromě toho může být použita i jako běžná zbraň, ale s vylepšenými parametry (2 /+2 /+1).
+Schopnosti Nekromantovy dýky jsou stejné jako u běžné Kouzelnické hole (viz Schopnosti hole). Navíc však disponuje ještě několika dalšími:
+
+- 
+Uchování života - specifickou schopností dýky je Uchování života. Nekromant může prolít svou krev a uchovat její sílu v dýce. Pokud by dosáhl Hranici smrti, dýka mu životy do ní vložené vrátí tak, aby ho udržela mezi živými.
+Dokud hrozí nebezpečí, dodává dýka právě tolik životů, aby Nekromant nezemřel (nepřešel Hranici smrti). Pokud nebezpečí pomine, dýka přidává životy rychlostí 1 za 10 kol (1 minutu) až do okamžiku, kdy se Nekromant probere z bezvědomí.
+Počet životů uložených v dýce nesmí překročit hodnotu rovnou dvojnásobku úrovně Nekromanta.
+Rituál přenesení energie, kterým Nekromant vitalitu do dýky přenese, trvá 1 směnu. Za každé dva životy, které při něm obětuje, se v dýce jeden život „uloží“.
+Dýka je schopna přenášet energii na vzdálenost tolika sáhů, jaká je úroveň Nekromanta.
+
+- 
+Krev v manu - Tato schopnost obřadní dýky dokáže posilovat Rituál krve. Díky němu dokáže Nekromant proměnit v jednom kole až 3 životy za 3 body many.
+
+
+VOLITELNÉ SCHOPNOSTI NEKROMANTA OD 6 ÚROVNĚ
+Následující volitelné schopnosti jsou dostupné pouze těm Kouzelníkům, kteří dosáhli potřebných schopností a vědomostí ke specializaci na Nekromanta.
+
+
+
+
+=== 6. Zloděj ===
+
+--- ZLODĚJ ---
+Zloději získali své renomé a reputaci zejména v temnějších kruzích společnosti. Prosluli hlavně ve městech, kde zvěsti o jejich přepadech a krádežích doputovali k těm správným uším. Nemají tak obvykle nouzi o práci a bývají najímáni jako vrazi, lupiči nebo špioni na obtížné úkoly. Ti nejchytřejší z nich si časem budují vlastní organizaci zaměřenou na byznys za hranou zákona. Stávají se tak vůdci podsvětí a mají pod palcem mnohdy celá města.
+Zloději se musí umět rychle vypořádat s jakoukoli situací. Proto se snaží alespoň naučit mnoha Zlodějským trikům, které mohou v pravý čas vychýlit misky vah osudu na jejich stranu. Ovládají široký záběr sociálních dovedností, které jim umožňují vyklouznout z prekérních situací. Jestliže však tato možnost selže, dokáží si poradit i v boji, v němž jsou mrštnými protivníky.
+POZNÁMKA: Hraní Zloděje je velmi specifické. Žádná jiná profese totiž tolik nespoléhá na své dovednosti. Naprostou většinu z nich navíc Zloději ovládají už od začátku své kariéry. Teprve ostřílení veteráni je však dokáží posunout mnohem dál. Bude proto jen na tobě, které z nich se rozhodneš vylepšit a jak je propojíš s novými schopnostmi pokročilých. Níže se proto dozvíš více o způsobu jejich použití v rámci „Zlodějských triků“.
+POKROČILÉ SCHOPNOSTI ZLODĚJE
+Jakmile Zloděj dosáhne šesté úrovně, stává se z něj pokročilý dobrodruh. Získá tak přístup ke dvěma novým rozšířením své profese. Prostřednictvím prvního se stane součástí širšího podsvětí a druhé mu umožní vyrábět a používat různé speciální předměty.
+Tato rozšíření jsou společná všem pokročilým Zlodějům, bez ohledu na jejich případnou specializaci (viz Specializace Zloděje).
+POKROČILÁ ROZŠÍŘENÍ ZLODĚJE:
+
+- Speciální předměty Zloděje
+- Zlodějský cech
+
+ZLODĚJSKÉ TETOVÁNÍ
+Lidé z podsvětí tvoří zvláštní uzavřenou komunitu. Někteří zůstávají „na volné noze“ ale mnoho z nich se časem raději přidá k „rodině“. Jedné z mnoha kriminálních organizaci pod vedením mocných Sicců. Tato uskupení spolu obvykle krutě soupeří o nadvládu nad zločinem v daném městě či čtvrti. Svým členům však za to nabízí různé výhody a protislužby.
+I přesto však všechny v této komunitě spojuje společná obava, respekt či nenávist k zástupcům spravedlnosti - vyšetřovatelům, gardistům a podobně. Obecně proto platí nepsané pravidlo, že „s těmito lidmi se nemluví“. Prásknutí „kolegy“ pak může mít velmi nepříjemné následky. Jiná věc je, že k tomu občas dochází (zejména tehdy, pokud někdo způsobil příliš velký poprask, přitáhl pozornost na celou komunitu a je třeba uklidnit vody).
+Se vstupem do rodiny (ale mnohdy i bez ohledu na to) si Zloději nechávají vytvořit tetování. Jejich symbolem je kočka, která může mít mnoho podob (často podle „rodiny“, které dal Zloděj svůj slib). Pokud se Zloděj postupem času specializuje, může si přidat další tetování, které danému směru náleží.
+Stejně tak mohou mít někteří zločinci i dodatečná tetování symbolizující značí jejich pobyt v trestanecké kolonii a odráží čeho se dopustili (například vražda „spravedlivého“ nebo symbol místa, kde přežije jen málokdo). Je to svým způsobem otázka cti, ale také hrozby, kterou dotyčný znamená pro okolí a sjednává si jím respekt.
+Tetování mívají Zloději obvykle na pěsti, ale ti chytřejší volí raději předloktí, kde je možné ho ukrýt a ukázat jen podle potřeby.
+ZLODĚJSKÉ TRIKY
+Pokročilé schopnosti dávají Zloději přístup ke zcela novým možnostem jeho profese. Těmi jsou takzvané „Zlodějské triky“. Jde o speciální akce, které se zdánlivě podobají válečnickým trikům. Jejich detailní popis je obsažen vždy u schopnosti, k níž náleží. Všechny však obsahují v popisu několik základních informací, které je definují.
+Četnost
+Četnost udává, jak často je možné daný trik opakovat, případně zda je možné jej provozovat bez omezení. U některých triků si dá oběť prostě pozor a už na něj znovu neskočí. U triků použitelných v boji obvykle platí, že je lze použít pouze jednou za celý souboj.
+Použití
+Mnoho Zlodějských triků lze uplatnit v boji k Útoku nebo Obraně. Vždy platí, že ke každé takové akci lze použít jen jeden Zlodějský trik. Nelze je tedy žádným způsobem kombinovat a sčítat. Jestliže je možné v daném kole zaútočit nebo se bránit vícekrát, lze se pokusit ke každé z těchto akcí použít Zlodějský trik.
+Ověření
+Zlodějské triky vyžadují ověření toho, zda se trik povedl. To se provádí ověřovacím hodem na vybrané zlodějské Umění (dovednost), ke kterému daná akce náleží. Pokud by se Zloděj například pokoušel o Zlodějský trik (akci) související s Paděláním, provádí se ověřovací hod na dovednost „Umění železného klíče“, k níž tato akce náleží. Obtížnost určuje Pán Jeskyně nebo je uvedena jako hod protivníka.
+POZNÁMKA: V původní verzi pravidel Dračí Hlídky (1.0 a 1.1) byly všechny Zlodějské dovednosti vedeny samostatně. Následně však došlo k úpravě, která dovednosti v rámci jednotlivých zlodějských Umění mění na „akce“, s tím, že dovedností se stává Umění samotné. Příkladem může být Umění železného klíče (nově dovednost), která v sobě zahrnuje (akce) Odstranění pastí, Otevírání zámků a Padělání.
+SPECIÁLNÍ PŘEDMĚTY ZLODĚJE
+Zloději při své práci občas používají předměty, které se v běžném obchodě neseženou. Často je už na první pohled jasné, jakému účelu za hranou zákona slouží.
+Speciální předměty může Zloděj nakoupit na „černém trhu“ (viz Zlodějský cech). Sem je potají dodávají (za patřičně vyšší cenu), lupiči, zbrojíři, alchymisté i všemožní překupníci.
+Nejčastěji je mezi Zloději zájem o bomby a zbraně. Sami si je totiž vyrobit nedokážou a oficiální nákupy by mohly přitáhnout až příliš mnoho pozornosti.
+* BOMBY
+Speciálními bombami Zlodějského cechu jsou:
+
+- Kouřová clona
+- Oslepující bomba
+- Všehoklíč
+
+* Tyto bomby dokáže dle zlodějových specifikací vyrobit jakýkoliv Alchymista
+* ZBRANĚ
+Speciálními zbraněmi Zlodějského cechu jsou:
+
+- Assassinská dýka (obranná)
+- Assassinská dýka (útočná)
+- Boxer
+- Hák na laně
+- Prsten s jedem
+- Sochor
+- Vycházková hůl se skrytým ostřím
+- Zápěstní kuše
+
+* Tyto zbraně dokáže jinak vyrobit Lupič, který má patřičné znalosti (schopnost Lupičská udělátka).
+ZLODĚJSKÝ CECH
+Zloděj díky svému věhlasu získává od 6. úrovně přístup do místních doupat uličníků, vyvrhelů a jiných podvratných individuí. Rozpozná skryté značky, které na takové místo upozorňují nebo k němu vedou. Samotné sídlo „cechu“ je neutrální místo, kde je zapovězeno vyřizovat si účty a kde platí striktní pravidla. Je zde zakázáno krást, vraždit, podvádět v hazardních hrách a podobně. Toto místo není pod nadvládou žádného zločineckého syndikátu nebo společenstva, je naopak pod jejich ochranou.
+Zlodějské cechy se najdou v každém větším městě, mnohdy ve sklepech pochybných hospod nebo v opuštěných budovách. Na vesnicích se vyskytují pouze zřídka, ale místní informátoři Zlodějského cechu bývají i tam. Tato tajná místa jsou dobře ukryta před očima obyčejných lidí, ale svým kumpánům poskytují různé služby.
+Cech je místem, kde funguje černý trh, uzavírají se v něm dohody a získávají zakázky. Zloděj zde může (za patřičnou úplatu) prodat nebo nakoupit kradené či zakázané vybavení nebo se zde ukrýt před spravedlností.
+Zároveň zde lze získat tajné zákulisní informace o městě jako takovém a lidech v něm. Kde lze něco získat, kdo by mohl být užitečný kontakt, kde a kdy hrozí razie gardy a podobně. Navíc se může Zloděj dozvědět o vypsaných odměnách a zakázkách, případně nějakou rovnou přijmout a zlepšit si tak svou reputaci v oboru.
+Do cechu mají přístup pouze Zloději a další lidé „z profese“. Vyzrazení polohy cechu nebo přivedení nezasvěcené osoby se trestá doživotním vyloučením, a to doslova, protože na takového Zloděje bývá ihned vypsána odměna.
+TAJNÁ SCHRÁNKA
+Ačkoliv je sídlo Zlodějského cechu relativně bezpečné (s vyzvědači a infiltrátory se účtuje bez milosti), vždy existuje riziko prozrazení. Opravdu důležité informace se proto neudržují v písemné podobě a pokud ano, nejsou v sídle cechu, ale ukryty v tajných schránkách. Ty ostatně s oblibou používají i všechny „rodiny“ (kriminální organizace).
+Tajné schránky jsou místa, o kterých ví jen uzavřená komunita osob. Může jít o uvolněný kámen ve zdi starého domu, popraskanou vázu na hřbitově, dutou trubičku pod stolem v hospodě nebo mnoho jiných. Vždy jde o místo, které je mimo centrum dění (a kde je snadné postřehnout případného pozorovatele) nebo naopak místo, kde je ruch tak velký, že je snadné schránku vybrat nebo naplnit, aniž by si toho někdo vůbec všiml.
+Smyslem schránky je diskrétní skryté předávání zpráv bez přítomnosti osob. Odesilatel do ní vloží vzkaz (často pod záminkou výměny květin ve váze, sehnutí se pod stůl pro spadlou minci a podobně) a příjemce dorazí v předem domluveném čase a zprávu převezme (může jít i o vyplacenou odměnu). Díky tomu, že se dotyční nikdy nesetkají, nemohou ani prozradit jeden druhého.
+Každý Zloděj zná základní (nouzová) místa schránek v daném městě, které slouží Zlodějskému cechu. Rodiny a bratrstva pak mají navíc své specifické schránky známé jen jejich členům.
+SPECIALIZACE ZLODĚJE
+Po dosažení šesté úrovně se může Zloděj dále specializovat ve své profesi a stát se Assassinem, Lupičem nebo Siccem. Podmínkou specializace je dosažení minimálně šesté úrovně a předchozí zvládnutí kombinace zvláštních schopností, které k danému zaměření náleží. Jakmile se pro to rozhodne, oznámí to Pánovi Jeskyně při přestupu na další úroveň.
+Specializace povolání není povinná. Pokud hráč chce, může dál pokračovat v původní cestě Zloděje, která i tak nabízí spoustu nových užitečných schopností. Stejně tak je možné rozhodnout se pro specializaci až později (na vyšších úrovních).
+Definitivní výběr specializace je třeba si důkladně promyslet. Volbu totiž nelze vzít zpět a jednou vybraná specializace zůstává natrvalo. Nelze ji proto později vyměnit za jinou.
+Jakmile je nějaká specializace zvolena, lze si při přestupu úrovně vybírat ze schopností, jež k ní náleží. Stejně tak je však možné rozhodnout se i pro libovolné schopnosti, které nabízí obecné povolání Zloděje. Seznam těchto obecných schopností je uveden níže a schopnosti specializací pak v jejich samostatných podkapitolách.
+Jestliže Zloděj nemá vybranou žádnou specializaci, může si na každé šesté úrovni vybrat jednu schopnost náležící některé z nich.
+VOLITELNÉ SCHOPNOSTI ZLODĚJE OD 6 ÚROVNĚ
+Následující volitelné schopnosti jsou dostupné všem Zlodějům (a to i těm, kteří se rozhodnout věnovat určité specializaci).
+
+
+--- ASSASSIN ---
+Assassini, jakožto nejobávanější zabijáci podsvětí a úhlavní nepřátelé strážců zákona, jsou bez milosti stíháni lovci odměn. Aby si zajistili ochranu, sdružují se do malých bratrstev, kterým jsou naprosto oddáni. Nemusí mít tedy strach z prozrazení svými druhy protože jejich kodex dává familii na první místo. Jestliže dojde k vraždě člena, je na jeho bratrech, aby ztrátu spravedlivě vykoupili krví. Nezřídka se stává že takto prolitá krev patří znepřátelené familii.
+Jakmile se Zloděj rozhodne specializovat na Assassina získává přístup ke dvěma novým rozšířením své profese. Prostřednictvím prvního se stane součástí konkrétního klanu zabijáků a druhé mu umožní zvládnout pokročilé techniky boje se zbraněmi své profese.
+K tomu, aby se mohl Zloděj stát Assassinem, musí nejprve ovládnout následující:
+
+- Umění rváčů
+- Umění skrývání
+- Schopnost Vrhání dýk
+
+ZVLÁŠTNÍ SCHOPNOSTI ASSASSINA
+Každý Assassin získáva volbou této specializace automaticky dvě užitečné zvláštní schopnosti.
+
+- Bratrstvo Assassinů
+- Vražedné zbraně
+
+BRATRSTVO ASSASSINŮ
+Bratrstvo assassinů je uzavřený spolek pro zvané. Vstup do něj je tedy vyhrazen pouze pro „lidi z oboru“. I v rámci bratrstva samozřejmě existuje mnoho různých „klanů“ či „rodin“, pro něž Assassini pracují. Tajným poznávacím znakem Assassinů je had.V jejich tetování se však vždy mírně liší (podle klanu).
+Členství v bratrstvu assassinů dává možnost získat ve Zlodějském cechu tajné zákulisní informace o vraždách a únosech v dané oblasti. Stejně tak se zde lze dozvědět vše o vypsaných odměnách a zakázkách, případně nějakou přijmout a zlepšit si tak svou reputaci v oboru.
+Z hlediska hry bývá zvykem dohodnout si vstup do specifického klanu či rodiny s Pánem Jeskyně. Upřesníte si i cíle dané organizace, poznávací znamení, název a podobně.
+VRAŽEDNÉ ZBRANĚ
+Efektivní použití zbraní určených pro překvapivé útoky a assassinský styl boje vyžadují značný trénink. Učení speciálních technik je výlučnou doménou assassinské familie.
+Pro zbraně označené jako Assassinské získává Assassin navíc bonus +3 do Útoku (ÚČ) a Obrany (OČ).
+VOLITELNÉ SCHOPNOSTI ASSASSINA OD 6 ÚROVNĚ
+Následující volitelné schopnosti jsou dostupné pouze těm Zlodějům, kteří dosáhli potřebných schopností a vědomostí ke specializaci na Assassina.
+
+
+--- LUPIČ ---
+Povolání Lupiče je neobyčejně náročné a nebezpečné. Nejde už zdaleka o vykrádání kapes obchodníků či měšťanů. Novým cílem jsou dobře střežené trezory bank nebo gild, které jsou mnohdy chráněny magií, složitými zámky nebo pastmi. Není divu, že jejich zdolání vyžaduje velmi specifické znalosti a trénink. Čas od času navíc dojde ke konfrontaci s ochrankou. Ani tehdy nesmí Lupič zpanikařit, ale musí najít řešení. Jen tak se může stát legendou, před níž není možné uchránit žádný poklad ani majetek.
+Jakmile se Zloděj rozhodne specializovat na Lupiče, získává přístup ke dvěma novým rozšířením své profese. Prostřednictvím prvního se stane součástí konkrétního lupičského klanu a druhé mu umožní tréninkem zvládnout pokročilé techniky se zbraněmi typickými pro jeho nové povolání.
+K tomu, aby se mohl Zloděj stát Lupičem, musí nejprve ovládnout následující:
+
+- Umění Železného klíče
+- Umění Kočičího pohybu
+- Schopnost Improvizace
+
+ZVLÁŠTNÍ SCHOPNOSTI LUPIČE
+Každý Lupič získáva volbou této specializace automaticky dvě užitečné zvláštní schopnosti.
+
+- Bratrstvo lupičů
+- Improvizované zbraně
+
+BRATRSTVO LUPIČŮ
+Bratrstvo lupičů je uzavřený spolek pro zvané. Vstup do něj je tedy vyhrazen pouze pro „lidi z oboru“. I v rámci bratrstva samozřejmě existuje mnoho různých „klanů“ či „rodin“, pro které Lupiči pracují. Tajným poznávacím znakem Lupičů je klíč, který se však na jejich tetování vždy mírně liší (podle klanu).
+Členství v Bratrstvu lupičů dává možnost získat ve Zlodějském cechu tajné zákulisní informace za účelem vytipování cílů loupeže. Lze se tak dozvědět o vzácném zboží, které je právě ve městě nebo bude převáženo.
+O tom, jaké zboží to je, kdo je majitelem, čím je vzácné, jaká je jeho odhadovaná cena a kde bude nebo je schraňováno. Stejně tak může Lupič dostat tipy ohledně případného zabezpečení a podobně. Navíc se může dozvědět o vypsaných odměnách a zakázkách, případně nějakou rovnou přijmout a zlepšit si tak svou reputaci v oboru.
+Z hlediska hry bývá zvykem dohodnout si vstup do specifického klanu či rodiny s Pánem Jeskyně. Upřesníte si tak i cíle dané organizace, poznávací znamení, název a podobně.
+IMPROVIZOVANÉ ZBRANĚ
+V boji o přežití neplatí žádná pravidla a je možno využít všech prostředků, které jsou k dispozici. Proto při boji beze zbraně Lupiči využívají různé předměty kolem sebe které jim přijdou pod ruku.
+Tato schopnost poskytuje Lupiči bonus +3 k Útoku (ÚČ) i Obraně (OČ) s pomocí improvizovaných zbraní. Těmi může být cokoliv v okolí Lupiče (střep, svícen, kůl z plotu a podobně) stejně jako různé zbraně a náčiní uvedené v popisu Zlodějského cechu.
+Aby mohl Lupič tuto schopnost použít, musí mít vybraný předmět po ruce. Jeho sebrání se bere jako akce Přezbrojení.
+Podle typu předmětu pak Pán Jeskyně určí, zda se jedná o obdobu krátké lehké zbraně nebo lehké obouruční zbraně. Jejich statistiky jsou uvedeny dále:
+Improvizovaná zbraň jednoručníImprovizovaná zbraň - jednoruční lehká krátká
+Útočnost: 2Zranění: 1Obrana: 1Dosah: 1,5 sáhuDostřel: 6/15Hmotnost: dle předmětu
+Kameny, klacky, nohy od židle, sklenice nebo třeba také kartáč. V rukou Lupiče se z těchto věcí denní potřeby stávají efektivní zbraně.
+Tato improvizovaná zbraň může být jakýkoliv menší předmět. Čím více ostrých hran, tím lépe. Obyčejně má statistiky dýky, ale mohou se na ni vztahovat úpravy (dle rozhodnutí Pána Jeskyně).
+Improvizovaná zbraň obouručníImprovizovaná zbraň - obouruční lehká
+Útočnost:5 Zranění:0 Obrana: 1Dosah: 1,5 sáhuHmotnost: dle předmětu
+Nohy stolu, kůly nebo třeba také obyčejný deštník. Kdo by si pomyslel, že se dají tak všestranně využít.
+Touto improvizovanou zbraní může být jakýkoliv středně velký předmět (čím větší tím lépe). Obyčejně má statistiky dřevěné hole, ale mohou se na ni vztahovat úpravy (dle rozhodnutí Pána Jeskyně).
+VOLITELNÉ SCHOPNOSTI LUPIČE OD 6 ÚROVNĚ
+Následující volitelné schopnosti jsou dostupné pouze těm Zlodějům, kteří dosáhli potřebných schopností a vědomostí ke specializaci na Lupiče.
+
+
+--- SICCO ---
+Sicco, na rozdíl od svých kolegů, do žádné organizované skupiny nevstupuje. On je totiž tím, kdo ji vytváří a kdo jí vládne. Hlavou rodiny a „kápem“ klanu. Stává se tak šedou eminenci, která vládne síti informátorů a vykonavatelů. Lupičů, vrahů, pašeráků a dalších živlů z podsvětí.
+Jakmile se Zloděj rozhodne specializovat na Sicca, získává přístup ke dvěma novým rozšířením své profese. Prostřednictvím prvního si vytváří vlastní síť a druhé mu umožní tréninkem zvládnout pokročilé techniky boje se zbraněmi typickými pro jeho nové povolání.
+K tomu, aby se mohl Zloděj stát Siccem, musí nejprve ovládnout následující:
+
+- Umění Proměn
+- Umění Šarmu
+- Zlodějská hantýrka
+
+ZVLÁŠTNÍ SCHOPNOSTI SICCA
+Každý Sicco získáva volbou této specializace automaticky dvě užitečné zvláštní schopnosti.
+
+- Siccova síť
+- Zbraně gentlemana
+
+SICCOVA SÍŤ
+Sicco na rozdíl od svých kolegů do žádné organizované skupiny nevstupuje, vytváří si totiž vlastní síť kumpánů, kteří mu pomáhají dosáhnout jeho cílů. Není proto divu, že se záhy stávají hlavami zločineckých organizací, které mohou mít mnoho podob. Může se jednat o bandu zlodějíčků, gang, který vybírá výpalné, nebo síť, která ovládá celé město či kraj.
+Tato schopnost ti umožní si vytvořit vlastní zločineckou organizaci, která ti bude užitečná v mnoha směrech. Ať už se jedná o získávání informací, krádeže, padělání, únosy, či snad vraždy. V tom všem ti mohou tvoji kumpáni, členové sítě pomoci. Každý z nich má svůj okruh akcí, které se specializují na něco jiného. Každý kumpán tě bude stát nějakou prvotní investici. Orientační ceny najdeš u každého kumpána zvlášť.
+Siccova síť (nebo také rodina či klan) mívá svůj vlastní symbol, který se objevuje na tetování jejích členů. Stejně tak disponuje nějakým sídlem nebo aspoň místem, kde se scházejí výhradně její členové. V neposlední řadě pak provozuje i tajné schránky, kam se ukládají instrukce pro členy v utajení.
+Řídit zločineckou organizaci není snadná záležitost. Zlato totiž nestačí na vše a Sicco musí být schopen si udržet respekt. Z toho důvodu platí, že Sicco je schopen ve své síti udržet nejvýše tolik kumpánů, jako je jeho úroveň.
+ZALOŽENÍ ZLOČINECKÉ SÍTĚ
+Pokud chce Sicco založit svou síť, musí nejprve učinit následující kroky:
+Volba členů sítě
+Možnosti Siccovy sítě jsou dány tím, jaké členy naverbuje. Síť může obsahovat několik týmů: tým „oček“ tvořený informátory, tým kapsářů, tým vrahů a podobně.
+Je tedy nutné projít si nejdříve Typy zločineckých akcí a rozhodnout se, jaké budou první aktivity organizace.
+Nábor členů
+Poté, když je už jasné, na jakou oblast zločinu se Sicco zaměří, je nutné naverbovat první členy sítě. Typy zločinců jsou uvedeny níže v kapitole „Členové zločinecké sítě“. U každého z nich je uvedena Cena. Jde o částku, kterou ho lze do své organizace zlákat.
+Aby byl loajální, je nutné ho navíc každý další měsíc stejnou částkou pravidelně vyplácet. V opačném případě se dá očekávat, že zběhne k práci na volné noze nebo začne pracovat pro jiného Sicca. Výjimkou jsou „kápové“, kteří si cení Siccovy důvěry a svého postavení v hierarchii. Ti jsou schopni bez odměny vydržet až 3 po sobě jdoucí měsíce. Pak už však i jejich míra trpělivosti přeteče a odejdou.
+DŮLEŽITÉ: První člen každého typu zločinců se stává automaticky „kápem“ pro daný tým. Pokud tedy Sicco naverbuje Ranaře, ten se stává „Kápem ranařů“ a bude velet všem ostatním, kteří patří do jeho týmu. Stejně tak naverbováním prvního Kapsáře je dotyčný automaticky „Kápem kapsářů“ organizace. Každý kápo by měl mít své jméno, protože je součástí nejbližšího okruhu Siccových spolupracovníků.
+Sídlo, jméno a znak sítě
+Když už jsou členové naverbováni, je dobré dát síti nějaké jméno. Také je možné vymyslet symbol, který si budou (minimálně kápové) hrdě dávat na svá tetování a najít vhodné místo, kde se bude „klan“ scházet. Sicco probere s Pánem Jeskyně, zda a kde ve městě by bylo něco ucházejícího k mání. Pokud má hodně peněz, může koneckonců investovat i do nějakého krámku či krčmy, která bude aktivity „klanu“ krýt a bude jeho shromaždištěm.
+FUNGOVÁNÍ SÍTĚ
+Cílem Sicca je zajistit stabilní příjmy a růst vlivu sítě. Obvykle se proto věnuje činnostem, které to mohou zajistit (krádeže, loupeže, únosy a podobně). S nárůstem zisků pak investuje do provozu krčmy (provoz hazardních her), krámků (prodej kradených věcí) a podobně.
+Čím více členů síť má, tím náročnější je také její „údržba“. Je příliš mnoho hladových krků, které jsou k jejímu provozu potřeba, ale zároveň stojí hodně peněz.
+Není-li Sicco právě ve městě, předává správu své sítě „kápům“. Ti se starají o její udržování a zisky, ze kterých vyplácí její členy automaticky.
+AKCE SÍTÍ V JINÝCH MĚSTECH
+Jednotlivé zločinecké sítě spolu neustále soupeří o nadvládu. V lepším případě je situace stabilizovaná a vládne mezi nimi příměří. V horším však vše čas od času vygraduje do horké fáze, kdy se vypalují konkurenční podniky, vraždí se členové a podobně. Na konci obvykle jeden Sicco posílí a druhý zemře (nebo je ve vyhnanství).
+Existují však i netypické případy, kdy se Sicco vydá do města, kde jeho síť vůbec nepůsobí. Jestliže se u hlavy místní sítě poctivě ohlásí, není vnímám jako hrozba. Naopak, je mu poskytnuta veškerá součinnost a nabídnuta pomoc. Dokáže tak využívat veškeré akce sítě tak, jako by se jednalo o tu jeho. Rozdíl je pouze v ceně vybrané akce, která je desetinásobná, a v omezení počtu členů, které mu jiný Sicco poskytne (nejvýše 3 na akci). Šéf lokální sítě navíc může akci zakázat, pokud by šla proti jeho zájmům.
+Stejnou službu pak poskytuje Siccova síť jiným kmotrům, kteří dočasně procházejí „jeho městem“.
+ČLENOVÉ ZLOČINECKÉ SÍTĚ
+Níže jsou uvedeny jednotlivé typy zločinců, kteří zajišťují plnění Siccových rozkazů. Každý z nich pak vyniká v jiné oblasti a je schopen provádět jiné akce.
+KapsářCena: 10 zlAkce: Kapsářství, loupež
+Kapsář je pouliční zlodějíček, který provádí menší krádeže přímo na ulici. Pokud se jich však sejde více, jsou schopni podniknout větší akci a ukrást něco cenného. Nejsou to však žádní rváči ani bijci. Pro každou zločineckou organizaci jsou však nezbytní, protože generují zisky.
+KšeftařCena: 15 zlAkce: Zprostředkování, podplacení
+Kšeftař je obchodník na volné noze, kterému nevadí kšeftovat prakticky s čímkoliv. Stejně tak nemá problém kradené či pašované zboží rychle udat nebo směnit dál. Má mnoho užitečných kontaktů, díky nimž je schopen zprostředkovat jinak obtížné schůzky a ví, koho a jak je možné podplatit.
+OčkoCena: 20 zlAkce: Získání informací, zahlazování stop
+Očko je ten, kdo dokáže získat informace. Často se do této pozice rekrutují i vybraní žebráci a bezdomovci (často zkrachovalí zločinci, kteří už se svýma rukama a uměním neuživí). Ti tráví celé dny na ulici a mají přehled o všem, co se kde šustne. Stejně tak jsou schopni zorganizovat ostatní a nepozorovaně někoho sledovat. Za své služby si však nechávají patřičně zaplatit.
+RanařCena: 15 zlAkce: Hlídání, zastrašení
+Ranaři reprezentují svaly zločinecké organizace. Obvykle jde o „jednodušší“ jedince, kteří si násilím kompenzují vlastní neschopnost dosáhnout úspěchu jinak. Právě jejich síla je však pro síť žádaným artiklem a oni se cítí důležití. Nechce-li zlatník zaplatit výpalné, jsou to právě oni, kdo mu jde „domluvit“. Ti nejvěrnější a nejsurovější se pak rekrutují jako Siccova osobní stráž.
+VrahCena: 25 zlAkce: Únos, vražda
+Vrah řeší definitivní zmizení nepohodlných osob, ať už to v dané chvíli znamená cokoliv. Jsou to mistři Assassinského umění, kteří nastupují tam, kde končí schopnosti Ranařů. Není divu, že jsou Vrazi vysíláni na všechny druhy speciálních akcí sítě.
+AKCE ZLOČINECKÉ SÍTĚ
+Jak už bylo řečeno, Sicco dokáže „svým lidem“ přikázat, aby se pustili do nějaké zločinné akce. Každá z nich však něco stojí. Charaktery zločinců jsou stejně špinavé, jako řemeslo, kterému se věnují. Je proto třeba je držet penězi motivované a loajální. Kolik přesně peněz která akce stojí, najdeš uvedeno dále (u každé z nich).
+NEBEZPEČNOST ZLOČINECKÝCH AKCÍ
+Dle míry nebezpečí se zločinecké akce dělí na dva druhy, Přestupky a Zločiny.
+Přestupky
+Přestupky jsou méně riskantní zločinné akce. Takové, které tolik nepřitahují pozornost vyšetřovatelů a gardy. Obvykle proto, že je jich tolik, že se jim nemá kdo věnovat. Pokud se během nich něco zvrtne, obvykle se nic zvláštního nestane a na Siccovu síť to nemá zásadní vliv.
+Zločiny
+Zločiny už tak triviální nejsou. Úspěšnost jejich provedení je klíčová a pokud se nepodaří, může to mít katastrofální následky. Do akce se vloží vyšetřovatelé a velmi záhy následuje zátah na galerku. Minimálně část týmu, který se akce účastnil, je záhy pochytána a uvězněna. Sicco si tak musí polovinu členů odepsat a investovat do doplnění své sítě novými silami.
+PROVÁDĚNÍ ZLOČINECKÝCH AKCÍ
+Pokud se Sicco rozhodne, vybere si určitou zločineckou akci, kterou mají jeho lidé vykonat (viz dále - Typy zločineckých akcí). Zároveň rozhodne, zda chce na akci vyslat celý tým, nebo jen jeho část. Za každého kumpána, který se do mise zapojí, dostává Sicco k ověření akce bonus +1.
+Teoreticky může být tento bonus vyšší, pokud je daný zločinec opravdu zkušený. S tím však souvisí i jeho vyšší cena akcí a měsíční sazba. Tyto úpravy jsou však plně v rukách Vypravěče.
+Aby mohl poslat kumpány do akce, musí jim Sicco zaplatit navíc zvláštní sazbu podle typu dané akce. Proto si také Siccové nechají velmi draze platit za služby, které jejich síť poskytne „lidem zvenčí“.
+Samotné ověření zločinecké akce probíhá hodem 1k10 + bonus za zapojené kumpány vs. Obtížnost akce, již určuje Pán jeskyně. Oznamuje to Siccovi ještě před provedením hodu, ale může to provést i v rámci plánování dané akce (pokud si Sicco provede průzkum situace a nechce riskovat).
+PŘÍKLAD: Sicco Loren potřebuje získat dlužné peníze od místního překupníka Aurise. Ví, že je to bývalý voják a už s ním byly problémy. Pán Jeskyně mu řekne, že obtížnost takové akce bude 8. Rozhodne se proto neriskovat a pošle na něj celý tým svých ranařů (3 lidi). Následně provede ověřovací hod 1k10 (padne mu třeba 6) a k němu přičte bonus za nasezené Ranaře (3). Výsledek je tedy 9, což stačí na to, aby v akci uspěli a peníze od Aurise dostali. Úkol je úspěšně splněn.
+DŮLEŽITÉ: Pokud je družina nebo někdo z jejich členů součástí zlodějské akce (nebo jejím cílem), pak se její provedení neodehrává hodem, ale samostatnou herní scénou.
+TYPY ZLOČINECKÝCH AKCÍ
+HlídáníNebezpečnost: PřestupekOvěření: Hlídání vs. XKumpán: RanařCena: 2 zl / kumpán
+Sicco může pověřit své Ranaře tím, aby mu dělali tělesnou stráž nebo hlídali vybrané místo či předmět. Zaplatí jim tedy určenou taxu a oni budou po dobu 1 dne hlídat. Pokud dojde k napadení, budou svého zadavatele, věc či místo bránit. Pán Jeskyně má statistiky Ranaře ve svém Bestiáři.
+Je také možné, že by se nějaká jiná zločinecká organizace mohla pokusit spáchat akci sítě proti Siccovi. V takovém případě je možné, že ji Ranař kompletně znemožní. Zda se to povede, se zjistí opět ověřením akce Hlídání proti výši hodu nepřátelské sítě.
+KapsářstvíNebezpečnost: PřestupekOvěření: Kapsářství vs. XKumpán: KapsářCena: 5 zl / kumpán
+Kapsáři dostanou od Sicca pokyn, aby se dali do práce a vyrazí do ulic. Tam budou po dobu celého jednoho dne provádět drobné loupeže. Budou tedy vybírat kapsy kolemjdoucím, krást na trhu a také třeba podvádět v kostkách v hospodě. Pokud kapsáři v akci uspějí, každý přinese Siccovi část výdělku v hodnotě 7 zl. Je také třeba myslet na to, že každá zločinecká síť si pečlivě hlídá svá území a nemají rádi, pokud jim na nich krade nějaký cizák.
+LoupežNebezpečnost: ZločinOvěření: Loupež vs. XKumpán: KapsářCena:5 zl / kumpán
+Tuto akci je možné použít k tomu, aby Kapsáři naplánovali větší akci a pokusili se ukrást nějakou konkrétní věc. Musí však o ní mít potřebné informace. Tedy, kde věc přibližně je a jak vypadá. Zlodějíčci pak vymyslí plán, který jim dovolí se k předmětu dostat a uzmout ho. Aby uspěli, musí překonat v hodu na ověření loupeže proti Obtížnosti, kterou stanoví Pán Jeskyně dle situace.
+PodplaceníNebezpečnost: ZločinOvěření: Podplacení vs. XKumpán: KšeftařCena: 5 zl / kumpán
+Ne každý strážný je morálně pevný ochránce zákona. Najde se mnoho takových, kteří rádi za úplatu přivřou oko. Právě takové jedince si dokáže Kšeftař vytipovat. Pokud uspěje v hodu na ověření, povede se mu strážného podplatit a následující zločinecká akce je snazší. Díky tomu obdrží hráč na následující akci Výhodu (bonus +5) ke svému hodu. Aby Kšeftař uspěl, musí uspět v hodu na ověření proti Obtížnosti jejíž výši stanoví Pán Jeskyně.
+ÚnosNebezpečnost: ZločinOvěření: Únos vs. XKumpán: Vrah (Assassin)Cena: 7 zl / kumpán
+Pomocí této akce může nechat Sicco někoho unést. Musí však vědět, kde se vybraná osoba nachází a jak vypadá, bez těchto informací není možné nikdy uspět. Aby Vrah v této akci uspěl, musí uspět v hodu na ověření. Obtížnost stanoví Pán Jeskyně dle toho, jak je osoba silně střežená, na jak nepřístupném místě se nachází a také dle toho, jak je oběť schopná se bránit. Pokud Vrah uspěje, cíl omráčí a dovleče ho před Sicca.
+VraždaNebezpečnost: ZločinOvěření: Vražda vs. XKumpán: Vrah (Assassin)Cena: 20 zl / kumpán
+Někdy není jiné řešení, než nepohodlnou osobu prostě nechat zmizet a na to je Vrah odborníkem. Pro svou práci však potřebuje vědět, kde se oběť nachází a také jak vypadá. Vražda může mít mnoho podob. Občas se jedná o šipku z kuše, jindy zase o jed, či náhodný pád z okna. Pro úspěšné provedení vraždy musí vrah uspět v hodu na ověření akce. Obtížnost stanovuje Pán Jeskyně dle svého uvážení. Bere v úvahu obranyschopnost cíle, počet stráží a další věci.
+Únos nebo zabití vlivných osob mohou být téměř nemožné, pokud si Sicco předem nepřipraví plán (například získání informací, podplacení klíčových lidí nebo manipulace propagandou). Někdy je tak potřeba zapojit celou síť skládájící se z různých týmů nebo se do akce zapojit sám.
+Zahlazení stopNebezpečnost: ZločinOvěření: Zahlazování stop vs. XCena: OčkoCena: 4 zl / kumpán
+Ne vždy jde všechno podle plánu, a tak se snadno může stát, že se nějaká kriminální akce nepovede a člen bandy je chycen. Ten by pak mohl vyzradit nějaké informace, které by dokázaly stráž dovést až k siccovi. Díky Očku je však možné tomu předejít, protože je schopen nastražit falešné informace, jež svedou případné vyšetřovatele ze stopy. Pro úspěch této akce je třeba překonat Obtížnost, kterou stanoví Pán Jeskyně dle své tabulky náročnosti akcí.
+ZastrašeníNebezpečnost: ZločinOvěření: Zastrašení vs. XKumpán: RanařCena: 4 zl / kumpán
+Občas je třeba navštívit příliš vzpurného obchodníka a domluvit mu, že by měl zaplatit svou měsíční taxu. Ranař si pak k němu udělá výlet a naplánuje akci, která onoho chudáka přímo zastraší. Kdejaký tvrdohlavý chlapík vyměkne, pokud u něj doma v kuchyni čeká veliká hora svalů. Aby Ranař v této akci uspěl, musí překonat hodem na akci Obtížnost kterou určí Pán Jeskyně.
+Získání informacíNebezpečnost: PřestupekOvěření: Získání informací vs. XKumpán: OčkoCena: 3 zl / kumpán
+Touto akcí dovede Očko získat různé informace. Může se jednat jak o místní klepy, tak i o přísně tajné informace. Ty je však mnohem těžší získat, proto si Sicco musí dobře rozmyslet, zda je jeho banda vůbec schopna takovou informaci získat. Jak moc je která akce náročná rozhoduje Pán Jeskyně, jemuž v odhadu pomůže tabulka náročnosti akcí.
+ZprostředkováníNebezpečnost: PřestupekOvěření: Zprostředkování vs. XKumpán: KšeftařCena: 2 zl / kumpán
+Kšeftař má mnoho kontaktů na různé osoby a proto pro něj není problém zprostředkovat setkání s nějakou osobou. Tato osoba nemusí být Siccovi příznivě nakloněná, pokud však proti němu přímo něco má, je Zprostředkování obtížnější. V takový moment má Kšeftař Nevýhodu (postih -5) při hodu na ověření. Setkání se vždy koná na neutrální půdě.
+ZBRANĚ GENTLEMANA
+Siccova pozice jakožto vůdce skupiny podsvětí je velice nebezpečná. Většina z nich si totiž nadělala během své bezohledné kariéry spousty nepřátel, kteří nezapomínají. Siccové se tak musí chránit a nespoléhat jen na své lidi. Proto se uchylují ke skrytým zbraním, které vypadají jako předměty denní potřeby.
+Sicco získává bonus +3 do Útoku (ÚČ) i Obrany (OČ) se všemi gentlemanskými zbraněmi. Jedná se o zbraně uvedené v popisu Zlodějského cechu, které mají označení gentlemanská zbraň.
+VOLITELNÉ SCHOPNOSTI SICCA OD 6 ÚROVNĚ
+Následující volitelné schopnosti jsou dostupné pouze těm Zlodějům, kteří dosáhli potřebných schopností a vědomostí ke specializaci na Sicca.
+
+
+
+
+=== 7. Klerik ===
+
+--- KLERIK ---
+Dlouhý čas na cestách změní každého. Jen málokdo navíc poznal tolik smrti, zla a utrpení jako dobrodruzi. Není divu, že se mnozí stali cyniky a ztratili víru. Naučili se žít tak, jako by každý den byl jejich posledním. Klerici však i v nejhorších chvílích dokázali spatřit zásah vyšší moci. Každá hrůza tak jen zocelila jejich odhodlání. Pochopili, že jsou součástí vyššího plánu a že mohou podobným věcem příště zabránit.
+Klerik je vyvoleným, který dokáže čelit osudu s chladnou hlavou. Za věrnou službu bohu získaly jeho prosby na síle. Dokáže jimi často změnit běh událostí a proto je požehnáním každé družiny. Stal se z něj nositel slova, který šíří pravou víru a moc svého pána.
+POZNÁMKA: Hraní Klerika je velmi specifické a poskytuje mnoho unikátních možností. Proto je zde uvedeno více informací než u ostatních profesí. Díky nim se dají objevit zcela nové možnosti hry. Níže uvedené texty o svatých místech, Relikviích a síle proseb mají navíc univerzální platnost (fungují tedy od počátku hry). V PPZ se neobjevily jen proto, že jsme jimi nechtěli zahltit začínající hráče.
+POKROČILÉ SCHOPNOSTI KLERIKA
+Jakmile Klerik dosáhne šesté úrovně, stává se z něj pokročilý dobrodruh. Ovládne tak automaticky novou schopnost, která posiluje jeho léčitelské schopnosti.
+Tato schopnost je společná všem pokročilým Klerikům, bez ohledu na jejich případnou specializaci.
+POKROČILÁ SCHOPNOST KLERIKA:
+
+- Dar života
+
+DAR ŽIVOTA
+Roky na cestách přinutily Klerika mnohokrát povolat Vyšší moc k léčení (ať už sebe, svých přátel nebo potřebných). Ovládá díky tomu prosby tak, jako nikdo jiný. Se stejnou přízní dokáže docílit mnohem větších úspěchů.
+Díky této schopnosti je výsledný efekt všech Klerikových léčivých proseb vždy o čtvrtinu silnější. Vždy však nejméně o 1 život.
+
+SPECIFICKÉ ZNALOSTI KLERIKA
+Profese Klerika je v mnoha ohledech jedinečná. Proto zde kromě jeho dalších Schopností a Proseb uvádíme i „obecné“ informace, které jsou již známy. Ty totiž mohou zásadně ovlivnit herní situace a Klerik je může patřičně využít.
+POSVÁTNÁ A PROKLETÁ MÍSTA
+Mohutné katedrály, stejně jako zapomenuté kaple či rozpadlé mohyly, mohou být mocnými posvátnými místy. Branami, skrze něž bohové promlouvají ke svým věřícím a kudy mohou nechat proudit svou nadpozemskou moc.
+Posvátné místo je území, které je zasvěceno konkrétnímu bohu. Klerik ho dokáže vytvořit provedením rituálu Svěcení místa. Jakmile je obřad dokončen, získá nad místem Klerikův bůh kontrolu. Jde o výjimku, která neporušuje dohodu o božské neutralitě na zemi.
+Tato místa mají zvláštní moc díky svému spojení s bohem. Klerik, jehož bohu je dané místo zasvěceno, má při jeho vzývání Výhodu (bonus +5). Každá vyslyšená Prosba je navíc dvakrát silnější, než je obvyklé (případně se dvojnásobně prodlužuje doba jejího trvání). Klerici jiných bohů mají naopak při provádění Proseb na daném místě Nevýhodu (postih -5).
+Posvátné místo je rovněž chráněno před vstupem nadpozemských vyslanců jiných bohů. Stejně jsou na tom i démoni či nemrtví, pokud ovšem bůh daného místa či jemu sloužící Klerik, nerozhodnou jinak.
+Kromě Posvátných míst existují i místa Prokletá. Říká se jim tak proto, že je na nich zapovězena přítomnost bohů. Na takových místech nelze uspět s žádnými prosbami. Nebudou nikdy vyslyšeny. Navíc je do těchto míst zapovězen přístup jakýmkoliv nadpozemským bytostem. Kdyby k tomu došlo, budou okamžitě zničeny ve všech rovinách (sférách) existence.
+To, zda je nějaké místo Prokleté či Posvátné, je mnohdy patrné už na první pohled. Klerik i nadpozemské bytosti to však instinktivně vycítí vždy s naprostou jistotou (obvykle na vzdálenost několika mil).
+POZNÁMKA: K Umlčení proseb dochází na Prokletých místech automaticky (viz kapitola Posvátná a Prokletá místa).
+TLUMENÍ A UMLČENÍ PROSEB
+Zlo nikdy nespí. Není-li Klerik opatrný, může se snadno stát obětí jeho vyznavačů. Stačí, aby mu nasadili posvátný symbol svého boha a Klerikova aura i duše zmizí z dohledu jeho boha. Zůstane pak sám, napospas svému osudu.
+Posvátné symboly (obvykle různé amulety a podobně), jsou běžným doplňkem Kleriků. Pomáhají totiž posílit jejich spojení s bohem. Pokud jsou však použity proti služebníkům jiné víry, mohou jejich pouto s bohem narušit nebo jim ublížit.
+Je-li Klerikovi nasazen posvátný symbol jiného boha, bude mít Nevýhodu (postih -5) ke všem pokusům o provedení prosby. U zvláště mocných předmětů (Relikvie, symbol získaný Vysokým svěcením atd.) bude jeho kontakt s bohem zcela umlčen. Nadpozemským bytostem navíc způsobí kruté bolesti a popáleniny. Výše uvedené efekty trvají tak dlouho, dokud má oběť symbol na sobě.
+RELIKVIE A POSVÁTNÉ PŘEDMĚTY
+Chrámem svaté Teneris proudily davy poutníků. Jako každý den se všichni tlačili k vysokému kamennému oltáři. Na něm ležela malá skleněná skříňka, ve které byl uložen zvláštní předmět. Byla to lidská dlaň, z níž vycházelo prazvláštní světlo. Každý, kdo k oltáři přišel, jako by cítil její hřejivý a léčivý dotek.
+Relikvie jsou vzácné ostatky svatých. Obvykle těch, kteří dokázali již za svého života činit zázraky. Anebo zvláště zbožných Kleriků. Jejich zvláštní (božská) moc jim zůstala i po smrti. Není proto divu, že Relikvie mají obrovskou cenu. Zmiňujeme je zde proto, abys měl základní povědomí o jejich existenci. Je totiž možné, že na nějaké během své cesty narazíš.
+Kromě Relikvií existují na světě i různé posvátné předměty či ikony. Ty jsou obvykle výtvorem zbožných kněží, kteří jimi přináší boží moc ostatním. Díky tomu je jich řádově více než Relikvií. Přesto se však jedná o velmi vzácné věci. Právě jejich relativně „lepší dostupnost“ z nich totiž činí oblíbený cíl zlodějů, sekt, fanatiků a nepřátel víry. Mnoho nádherných a mocných předmětů tak bylo zničeno jen díky řevnivosti či chamtivosti lidí.
+SPECIALIZACE KLERIKA
+Po dosažení šesté úrovně se může Klerik dále specializovat ve své profesi a stát se Bojovým mnichem, Exorcistou nebo Knězem. Podmínkou specializace je dosažení minimálně šesté úrovně a předchozí zvládnutí kombinace zvláštních schopností, které k danému zaměření náleží. Jakmile se pro specializaci rozhodne, oznámí to Pánovi Jeskyně při přestupu na další úroveň.
+Specializace povolání není povinná. Pokud chce, může dál pokračovat v původní cestě Klerika, která mu i tak nabízí spoustu nových užitečných schopností. Stejně tak se může rozhodnout pro specializaci až později (na vyšších úrovních).
+Než se Klerik pro nějakou specializaci definitivně rozhodne, měl by si to dobře promyslet. Volbu totiž nelze vzít zpět a jednou vybraná specializace mu zůstává natrvalo. Nelze ji proto později vyměnit za jinou.
+Jakmile si nějakou specializaci zvolí, může si Klerik při přestupu úrovně vybírat ze schopností, jež k ní náleží. Stejně se však může rozhodnout i pro libovolné schopnosti, které nabízí obecné povolání Klerika. Seznam těchto obecných schopností je uveden níže a schopnosti specializací pak v jejich samostatných podkapitolách.
+Jestliže nemá Klerik vybranou žádnou specializaci, může si na každé šesté úrovni vybrat jednu schopnost náležící některé z nich.
+VOLITELNÉ SCHOPNOSTI KLERIKA OD 6 ÚROVNĚ
+Následující volitelné schopnosti jsou dostupné všem Klerikům (a to i těm, kteří se rozhodnout věnovat určité specializaci).
+
+
+--- BOJOVÝ MNICH ---
+Bojoví mniši jsou ocelovou pěstí víry. Věří, že to pravé zlo se skrývá mezi lidmi. Je potřeba ho trpělivě hledat a vytrhávat i s kořeny, jinak tento plevel zadusí a zničí vše dobré. Vyžaduje to velkou dávku tvrdosti a odhodlání, ale obojího mají na rozdávání. Bojoví mniši jsou rytířskou elitou. Kromě toho se z nich rekrutují vynikající Inkvizitoři a Lovci čarodějnic. Jen oni mnohdy dokáží odhalit sítě vražedných sekt a jejich členů. Stejně účinně však umí rozprášit i sabaty kultistů a démonů. Jsou to skuteční hrdinové, kteří bojují s temnotou pomocí síly.
+Aby se Klerik mohl specializovat a stát se Bojovým mnichem, musí nejprve ovládnout následující:
+
+- schopnost Boží bojovník
+- znalost nauky Bojovníků víry
+- znalost nauky Svaté pravdy
+
+ZVLÁŠTNÍ SCHOPNOSTI BOJOVÉHO MNICHA
+Každý Bojový mnich získává volbou této specializace automaticky následující zvláštní schopnost, která z něj v boji činí nebezpečnějšího protivníka.
+
+- Boj zblízka
+
+BOJ Z BLÍZKA
+Nespočet šarvátek s kultisty a heretiky učinil z Bojových mnichů zkušené veterány. V boji tváří v tvář tak dokáží používat různé styly a techniky. Díky tomu se snadno vyrovnají i ostříleným Válečníkům.
+Díky této schopnosti má Bojový mnich při boji tváří v tvář automaticky bonus +1 k Útoku i Obraně.
+VOLITELNÉ SCHOPNOSTI BOJOVÉHO MNICHA OD 6 ÚROVNĚ
+Následující volitelné schopnosti jsou dostupné pouze těm Klerikům, kteří dosáhli potřebných schopností a vědomostí ke specializaci na Bojového mnicha.
+
+
+--- EXORCISTA ---
+Exorcisté jsou tajemní a děsiví samotáři. Říká se o nich, že nemají strach ani z ďábla. Jsou to totiž právě oni, kdo dokáží vymítat služebníky temnot a, je-li to třeba, vydat se za nimi do jejich světa. Kromě toho dokáží řešit kletby, zjevení, posednutí a další zlé projevy vyšší moci. Jejich cesty jsou však osamělé, protože jim málokdo rozumí. A kdyby se přece někdo našel, drží ho od sebe raději dál. Zlo si totiž pamatuje a čeká na příležitost najít jejich slabinu.
+Aby se Klerik mohl specializovat a stát se Exorcistou, musí nejprve ovládnout následující:
+
+- znalost nauky Božích patronů
+- znalost nauky Démonologie
+- schopnost Osvícení
+
+ZVLÁŠTNÍ SCHOPNOSTI EXORCISTY
+Každý Exorcista získává volbou této specializace automaticky jednu zvláštní schopnost, která činí jeho mysl odolnější.
+
+- Sebeovládání
+
+SEBEOVLÁDÁNÍ
+Specializace Exorcisty vyžaduje, aby v rámci svého tréninku prošel mnoha náročnými zkouškami. Při nich se setkává s různými děsivými bytostmi, které se ho pokoušejí posednout, zastrašit či dokonce zabít. Není divu, že si proti tomu dokázal vypěstovat vysokou odolnost.
+Exorcista má automaticky Výhodu (bonus +5) proti každému pokusu o ovlivnění jeho mysli, zastrašení, ovládnutí, posednutí a podobně.
+VOLITELNÉ SCHOPNOSTI EXORCISTY OD 6 ÚROVNĚ
+Následující volitelné schopnosti jsou dostupné pouze těm Klerikům, kteří dosáhli potřebných schopností a vědomostí ke specializaci na Exorcisty.
+
+
+--- KNĚZ ---
+Kněží zasvětili celý svůj život opravdovému porozumění božímu plánu. Říká se, že vídají jeho vize a jsou mu tak blíž než kdokoliv jiný. Jsou-li Kněží v ohrožení, dokáží prý získat podobu boha a stát se jeho avatary. S požehnáním svého boha ochraňují a léčí věřící, bojují se silami temnoty a říká se, že mohou i oživit mrtvé. Jsou to právě oni, kdo dokáže činit zázraky.
+Aby se Klerik mohl specializovat a stát se Knězem, musí nejprve ovládnout následující:
+
+- znalost nauky Milosrdenství
+- znalost nauky Žehnání aurami
+- schopnost Požehnané zdraví
+
+ZVLÁŠTNÍ SCHOPNOSTI KNĚZE
+Každý Kněz získává volbou této specializace automaticky jednu zvláštní schopnost, která mu poskytuje lásku a podporu běžných lidí.
+
+- Milosrdenství
+
+MILOSRDENSTVÍ
+Kněží budí odjakživa důvěru a naději. Všichni totiž doufají, že se za ně přimluví ve svých modlitbách. Není proto divu, že se jim od obecného lidu dostává darů a milosrdenství.
+Tento dar zajišťuje Kněžím podporu běžných lidí. Nemusí se tedy na svých cestách starat o jídlo, ubytování a podobné věci Jejich souvěrci se o ně postarají výměnou za modlitby.
+Kněz se může teoreticky dočkat i pomoci od jinověrců. Ta je však obvykle spíše symbolická a ze zdvořilosti. Kněží jsou totiž obecně uznávanými autoritami. Pokud by Kněz narazil na nepřátele své víry, dočká se samozřejmě úplně jiných věcí.
+Dary milosrdenství se vztahují jen na Kněze. Obvykle jsou navíc velmi skromné a odpovídají možnostem těch, kteří mu pomáhají.
+VOLITELNÉ SCHOPNOSTI KNĚZE OD 6 ÚROVNĚ
+Následující volitelné schopnosti jsou dostupné pouze těm Klerikům, kteří dosáhli potřebných schopností a vědomostí ke specializaci na Kněze.
+
+
