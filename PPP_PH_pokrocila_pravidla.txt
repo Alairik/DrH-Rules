@@ -731,8 +731,15 @@ DŮLEŽITÉ: V jednu chvíli lze mít v Astrónu polapeného pouze jednoho démo
 VOLITELNÉ SCHOPNOSTI THEURGA OD 6 ÚROVNĚ
 Následující volitelné schopnosti jsou dostupné pouze těm Alchymistům, kteří dosáhli potřebných schopností a vědomostí ke specializaci na Theurga.
 
-
-
+TABULKA VOLITELNÝCH SCHOPNOSTÍ THEURGA
+Astrální sféry (S) — Pronikne do samé podstaty tajemství astrálních sfér. Může tak přivolávat démony s vlastnostmi dle svých potřeb a přání a tím je schopen vyrábět naprosto nové, unikátní a vlastní předměty.
+Ovládnutí živlů (S) — Díky této schopnosti dokáže ovládat mocné projevy – vyvolat zemětřesení, přílivovou vlnu, požár nebo hurikán. Sám také může určit, jak moc se projeví.
+Oživlé pomůcky (S) — Naučí se přivolávat specifické démony, kterým dá jistou míru svobody. Dokáže tak vyrobit následující předměty: Chodící truhla, Létající lucerna, Mluvící hlava a Oživlý obušek.
+Portály a zrcadla (S) — S touto schopností dokáže propojovat různá místa mezi sebou. Zvládne proto vyrobit několik speciálních předmětů. Jsou jimi: Mimoprostorové zrcadlo, Portál, Vidoucí kameny, Zrcadlo duší.
+Poslové živlů (S) — Díky této schopnosti se naučí přivolávat elementály, mocné služebníky živlů, kteří pak poslouchají rozkazy. Sám si může určit, o jakého z nich půjde – ohnivý elementál Igni, vodní elementál Undina, elementál země Terra nebo elementál vzduchu Sylfa.
+Práce s esencemi (S) — Dokáže z many vyseparovat ještě jemnější částice – esence, kterými dokáže provádět mnoho jednoduchých změn hmoty a energie dle vlastního uvážení.
+Práce s vichry many (S) — Dokáže pracovat s Vichry many a vyrábět předměty, které toho umí využít. Jsou jimi: Detektor vichrů many, Manafiltr, Managenerátor a Manatransformátor.
+Talismany (S) — Naučí se rozpoznávat drahé kameny a aktivovat jejich skrytou sílu. Díky tomu bude moci vyrobit mnoho užitečných talismanů se zvláštními schopnostmi.
 
 === 5. Kouzelník ===
 
